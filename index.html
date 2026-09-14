@@ -3,25 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Global Team Domain Blocklist</title>
+    <title>GitHub Blocklist Manager</title>
     <style>
         * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
         body { background-color: #0f172a; color: #f8fafc; display: flex; justify-content: center; align-items: center; min-height: 100vh; padding: 20px; }
-        .container { background-color: #1e293b; padding: 30px; border-radius: 12px; box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5); width: 100%; max-width: 550px; border: 1px solid #334155; }
-        h2 { font-size: 1.5rem; margin-bottom: 8px; color: #38bdf8; text-align: center; }
-        p.subtitle { font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 24px; }
-        .form-group { margin-bottom: 20px; }
-        label { display: block; margin-bottom: 8px; font-weight: 600; font-size: 0.9rem; color: #cbd5e1; }
-        input[type="text"] { width: 100%; padding: 12px 15px; background-color: #0f172a; border: 1px solid #475569; border-radius: 6px; color: #ffffff; font-size: 1rem; outline: none; }
-        input[type="text"]:focus { border-color: #38bdf8; }
-        button { width: 100%; padding: 12px; background-color: #0284c7; color: white; border: none; border-radius: 6px; font-size: 1rem; font-weight: bold; cursor: pointer; }
+        .container { background-color: #1e293b; padding: 30px; border-radius: 12px; box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5); width: 100%; max-width: 500px; border: 1px solid #334155; }
+        h2 { font-size: 1.4rem; margin-bottom: 8px; color: #38bdf8; text-align: center; }
+        p.subtitle { font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 20px; }
+        .form-group { margin-bottom: 15px; }
+        label { display: block; margin-bottom: 6px; font-weight: 600; font-size: 0.85rem; color: #cbd5e1; }
+        input[type="text"], input[type="password"] { width: 100%; padding: 10px 12px; background-color: #0f172a; border: 1px solid #475569; border-radius: 6px; color: #ffffff; font-size: 0.9rem; outline: none; }
+        input:focus { border-color: #38bdf8; }
+        button { width: 100%; padding: 10px; background-color: #0284c7; color: white; border: none; border-radius: 6px; font-size: 0.95rem; font-weight: bold; cursor: pointer; }
         button:hover { background-color: #0369a1; }
-        .stats-box { margin-top: 25px; padding-top: 20px; border-top: 1px solid #334155; display: flex; justify-content: space-between; align-items: center; }
-        .stats-count { font-size: 0.9rem; color: #94a3b8; }
-        .stats-count span { color: #38bdf8; font-weight: bold; }
-        .download-btn { padding: 8px 14px; background-color: #334155; color: #cbd5e1; border-radius: 6px; font-size: 0.85rem; cursor: pointer; border: none; }
-        .download-btn:hover { background-color: #475569; color: #fff; }
-        .alert { padding: 10px 15px; border-radius: 6px; margin-bottom: 15px; font-size: 0.9rem; display: none; }
+        .alert { padding: 10px; border-radius: 6px; margin-bottom: 15px; font-size: 0.85rem; display: none; }
         .alert.success { background-color: #064e3b; color: #6ee7b7; border: 1px solid #047857; }
         .alert.error { background-color: #7f1d1d; color: #fca5a5; border: 1px solid #b91c1c; }
     </style>
@@ -29,94 +24,110 @@
 <body>
 
 <div class="container">
-    <h2>Global Team Blocklist</h2>
-    <p class="subtitle">Real-time Shared Harmful Domain Panel</p>
+    <h2>GitHub Blocklist Manager</h2>
+    <p class="subtitle">Direct GitHub API Sync Panel</p>
 
     <div id="alertBox" class="alert"></div>
 
     <div class="form-group">
-        <label for="domainInput">Enter Malicious Domain:</label>
-        <input type="text" id="domainInput" placeholder="e.g., malicious-site.com" />
+        <label>GitHub Personal Access Token (PAT):</label>
+        <input type="password" id="ghToken" placeholder="ghp_xxxxxxxxxxxxxxxxxxxx" />
+    </div>
+
+    <div class="form-group">
+        <label>Enter Malicious Domain:</label>
+        <input type="text" id="domainInput" placeholder="e.g., example-badsite.com" />
     </div>
     
-    <button onclick="addDomain()">Add to Global Blocklist</button>
-
-    <div class="stats-box">
-        <div class="stats-count">Total Blocked: <span id="domainCount">0</span></div>
-        <button class="download-btn" onclick="downloadTxt()">Download .txt</button>
-    </div>
+    <button onclick="addDomainToGitHub()">Add to GitHub Blocklist</button>
 </div>
 
-<script type="module">
-  import { initializeApp } from "https://www.gstatic.com/firebasejs/10.8.0/firebase-app.js";
-  import { getDatabase, ref, push, onValue } from "https://www.gstatic.com/firebasejs/10.8.0/firebase-database.js";
+<script>
+    // আপনার Repo সম্পর্কিত তথ্য দিন
+    const REPO_OWNER = "YOUR_GITHUB_USERNAME"; 
+    const REPO_NAME = "YOUR_REPO_NAME";
+    const FILE_PATH = "blocklist.txt"; // Repo-তে থাকা ফাইল নাম
 
-  // আপনার Firebase Config দিয়ে এটি পরিবর্তন করুন
-  const firebaseConfig = {
-    databaseURL: "https://YOUR_FIREBASE_PROJECT_ID.firebaseio.com"
-  };
+    // Token LocalStorage-এ সেভ রাখা
+    document.getElementById('ghToken').value = localStorage.getItem('gh_pat_token') || '';
 
-  const app = initializeApp(firebaseConfig);
-  const db = getDatabase(app);
-  const blocklistRef = ref(db, 'domains');
-
-  let localDomainsList = [];
-
-  onValue(blocklistRef, (snapshot) => {
-    const data = snapshot.val();
-    localDomainsList = [];
-    if (data) {
-        Object.values(data).forEach(item => {
-            if (item.domain) localDomainsList.push(item.domain);
-        });
+    function showAlert(msg, type) {
+        const box = document.getElementById('alertBox');
+        box.className = `alert ${type}`;
+        box.innerText = msg;
+        box.style.display = 'block';
+        setTimeout(() => box.style.display = 'none', 4000);
     }
-    document.getElementById('domainCount').innerText = localDomainsList.length;
-  });
 
-  window.addDomain = function() {
-      const inputField = document.getElementById('domainInput');
-      let domain = inputField.value.trim().toLowerCase();
-      domain = domain.replace(/^https?:\/\//, '').replace(/\/.*$/, '');
+    async function addDomainToGitHub() {
+        const token = document.getElementById('ghToken').value.trim();
+        let domain = document.getElementById('domainInput').value.trim().toLowerCase();
+        domain = domain.replace(/^https?:\/\//, '').replace(/\/.*$/, '');
 
-      if (!domain) {
-          showAlert('Please enter a valid domain!', 'error');
-          return;
-      }
-      if (localDomainsList.includes(domain)) {
-          showAlert('Domain already exists in blocklist!', 'error');
-          return;
-      }
+        if (!token) return showAlert("GitHub Access Token দিন!", "error");
+        if (!domain) return showAlert("সঠিক ডোমেইন নাম দিন!", "error");
 
-      push(blocklistRef, {
-          domain: domain,
-          addedAt: new Date().toISOString()
-      }).then(() => {
-          showAlert(`Added "${domain}" to global list!`, 'success');
-          inputField.value = '';
-      });
-  };
+        localStorage.setItem('gh_pat_token', token);
 
-  window.downloadTxt = function() {
-      if (localDomainsList.length === 0) {
-          showAlert('No domains to download!', 'error');
-          return;
-      }
-      const fileContent = localDomainsList.join('\n');
-      const blob = new Blob([fileContent], { type: 'text/plain;charset=utf-8' });
-      const link = document.createElement('a');
-      link.href = URL.createObjectURL(blob);
-      link.download = 'global-blocklist.txt';
-      link.click();
-      URL.revokeObjectURL(link.href);
-  };
+        const apiUrl = `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${FILE_PATH}`;
 
-  function showAlert(message, type) {
-      const alertBox = document.getElementById('alertBox');
-      alertBox.className = `alert ${type}`;
-      alertBox.innerText = message;
-      alertBox.style.display = 'block';
-      setTimeout(() => alertBox.style.display = 'none', 3000);
-  }
+        try {
+            showAlert("GitHub-এর সাথে কানেক্ট করা হচ্ছে...", "success");
+
+            // ১. বর্তমান ফাইল রিড করা
+            let getResponse = await fetch(apiUrl, {
+                headers: { "Authorization": `token ${token}` }
+            });
+
+            let fileSha = "";
+            let currentContent = "";
+
+            if (getResponse.status === 200) {
+                let fileData = await getResponse.json();
+                fileSha = fileData.sha;
+                currentContent = decodeURIComponent(escape(atob(fileData.content)));
+            } else if (getResponse.status !== 404) {
+                throw new Error("ফাইল রিড করতে ব্যর্থ! Token বা Repo তথ্য চেক করুন।");
+            }
+
+            // ২. ডুপ্লিকেট চেক
+            let domainList = currentContent.split('\n').map(d => d.trim()).filter(Boolean);
+            if (domainList.includes(domain)) {
+                return showAlert("ডোমেইনটি আগেই ব্লক লিস্টে আছে!", "error");
+            }
+
+            // ৩. নতুন লিস্ট তৈরি ও Base64 Encode
+            domainList.push(domain);
+            domainList.sort();
+            let updatedContent = domainList.join('\n');
+            let encodedContent = btoa(unescape(encodeURIComponent(updatedContent)));
+
+            // ৪. GitHub API দিয়ে Commit করা
+            let putResponse = await fetch(apiUrl, {
+                method: "PUT",
+                headers: {
+                    "Authorization": `token ${token}`,
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({
+                    message: `Added ${domain} via Web Panel`,
+                    content: encodedContent,
+                    sha: fileSha ? fileSha : undefined
+                })
+            });
+
+            if (putResponse.ok) {
+                showAlert(`সফলভাবে "${domain}" ব্লক লিস্টে যোগ হয়েছে!`, "success");
+                document.getElementById('domainInput').value = '';
+            } else {
+                let err = await putResponse.json();
+                showAlert("Commit ব্যর্থ: " + (err.message || "অজানা সমস্যা"), "error");
+            }
+
+        } catch (error) {
+            showAlert(error.message, "error");
+        }
+    }
 </script>
 
 </body>
