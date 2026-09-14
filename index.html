@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Global Team Domain Blocklist</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+        body { background-color: #0f172a; color: #f8fafc; display: flex; justify-content: center; align-items: center; min-height: 100vh; padding: 20px; }
+        .container { background-color: #1e293b; padding: 30px; border-radius: 12px; box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5); width: 100%; max-width: 550px; border: 1px solid #334155; }
+        h2 { font-size: 1.5rem; margin-bottom: 8px; color: #38bdf8; text-align: center; }
+        p.subtitle { font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 24px; }
+        .form-group { margin-bottom: 20px; }
+        label { display: block; margin-bottom: 8px; font-weight: 600; font-size: 0.9rem; color: #cbd5e1; }
+        input[type="text"] { width: 100%; padding: 12px 15px; background-color: #0f172a; border: 1px solid #475569; border-radius: 6px; color: #ffffff; font-size: 1rem; outline: none; }
+        input[type="text"]:focus { border-color: #38bdf8; }
+        button { width: 100%; padding: 12px; background-color: #0284c7; color: white; border: none; border-radius: 6px; font-size: 1rem; font-weight: bold; cursor: pointer; }
+        button:hover { background-color: #0369a1; }
+        .stats-box { margin-top: 25px; padding-top: 20px; border-top: 1px solid #334155; display: flex; justify-content: space-between; align-items: center; }
+        .stats-count { font-size: 0.9rem; color: #94a3b8; }
+        .stats-count span { color: #38bdf8; font-weight: bold; }
+        .download-btn { padding: 8px 14px; background-color: #334155; color: #cbd5e1; border-radius: 6px; font-size: 0.85rem; cursor: pointer; border: none; }
+        .download-btn:hover { background-color: #475569; color: #fff; }
+        .alert { padding: 10px 15px; border-radius: 6px; margin-bottom: 15px; font-size: 0.9rem; display: none; }
+        .alert.success { background-color: #064e3b; color: #6ee7b7; border: 1px solid #047857; }
+        .alert.error { background-color: #7f1d1d; color: #fca5a5; border: 1px solid #b91c1c; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h2>Global Team Blocklist</h2>
+    <p class="subtitle">Real-time Shared Harmful Domain Panel</p>
+
+    <div id="alertBox" class="alert"></div>
+
+    <div class="form-group">
+        <label for="domainInput">Enter Malicious Domain:</label>
+        <input type="text" id="domainInput" placeholder="e.g., malicious-site.com" />
+    </div>
+    
+    <button onclick="addDomain()">Add to Global Blocklist</button>
+
+    <div class="stats-box">
+        <div class="stats-count">Total Blocked: <span id="domainCount">0</span></div>
+        <button class="download-btn" onclick="downloadTxt()">Download .txt</button>
+    </div>
+</div>
+
+<script type="module">
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/10.8.0/firebase-app.js";
+  import { getDatabase, ref, push, onValue } from "https://www.gstatic.com/firebasejs/10.8.0/firebase-database.js";
+
+  // আপনার Firebase Config দিয়ে এটি পরিবর্তন করুন
+  const firebaseConfig = {
+    databaseURL: "https://YOUR_FIREBASE_PROJECT_ID.firebaseio.com"
+  };
+
+  const app = initializeApp(firebaseConfig);
+  const db = getDatabase(app);
+  const blocklistRef = ref(db, 'domains');
+
+  let localDomainsList = [];
+
+  onValue(blocklistRef, (snapshot) => {
+    const data = snapshot.val();
+    localDomainsList = [];
+    if (data) {
+        Object.values(data).forEach(item => {
+            if (item.domain) localDomainsList.push(item.domain);
+        });
+    }
+    document.getElementById('domainCount').innerText = localDomainsList.length;
+  });
+
+  window.addDomain = function() {
+      const inputField = document.getElementById('domainInput');
+      let domain = inputField.value.trim().toLowerCase();
+      domain = domain.replace(/^https?:\/\//, '').replace(/\/.*$/, '');
+
+      if (!domain) {
+          showAlert('Please enter a valid domain!', 'error');
+          return;
+      }
+      if (localDomainsList.includes(domain)) {
+          showAlert('Domain already exists in blocklist!', 'error');
+          return;
+      }
+
+      push(blocklistRef, {
+          domain: domain,
+          addedAt: new Date().toISOString()
+      }).then(() => {
+          showAlert(`Added "${domain}" to global list!`, 'success');
+          inputField.value = '';
+      });
+  };
+
+  window.downloadTxt = function() {
+      if (localDomainsList.length === 0) {
+          showAlert('No domains to download!', 'error');
+          return;
+      }
+      const fileContent = localDomainsList.join('\n');
+      const blob = new Blob([fileContent], { type: 'text/plain;charset=utf-8' });
+      const link = document.createElement('a');
+      link.href = URL.createObjectURL(blob);
+      link.download = 'global-blocklist.txt';
+      link.click();
+      URL.revokeObjectURL(link.href);
+  };
+
+  function showAlert(message, type) {
+      const alertBox = document.getElementById('alertBox');
+      alertBox.className = `alert ${type}`;
+      alertBox.innerText = message;
+      alertBox.style.display = 'block';
+      setTimeout(() => alertBox.style.display = 'none', 3000);
+  }
+</script>
+
+</body>
+</html>
