@@ -3,29 +3,35 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Blocklist Manager</title>
+    <title>ThreatHub - Multi-Category Blocklist Manager</title>
     <style>
         * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
         body { background-color: #0f172a; color: #f8fafc; display: flex; justify-content: center; align-items: center; min-height: 100vh; padding: 20px; }
-        .container { background-color: #1e293b; padding: 30px; border-radius: 12px; box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5); width: 100%; max-width: 500px; border: 1px solid #334155; }
-        h2 { font-size: 1.4rem; margin-bottom: 8px; color: #38bdf8; text-align: center; }
+        .container { background-color: #1e293b; padding: 30px; border-radius: 12px; box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5); width: 100%; max-width: 550px; border: 1px solid #334155; }
+        h2 { font-size: 1.4rem; margin-bottom: 6px; color: #38bdf8; text-align: center; }
         p.subtitle { font-size: 0.85rem; color: #94a3b8; text-align: center; margin-bottom: 20px; }
         .form-group { margin-bottom: 15px; }
         label { display: block; margin-bottom: 6px; font-weight: 600; font-size: 0.85rem; color: #cbd5e1; }
-        input[type="text"], input[type="password"] { width: 100%; padding: 10px 12px; background-color: #0f172a; border: 1px solid #475569; border-radius: 6px; color: #ffffff; font-size: 0.9rem; outline: none; }
-        input:focus { border-color: #38bdf8; }
-        button { width: 100%; padding: 10px; background-color: #0284c7; color: white; border: none; border-radius: 6px; font-size: 0.95rem; font-weight: bold; cursor: pointer; }
+        input[type="password"], input[type="text"], select, textarea { 
+            width: 100%; padding: 10px 12px; background-color: #0f172a; border: 1px solid #475569; 
+            border-radius: 6px; color: #ffffff; font-size: 0.9rem; outline: none; 
+        }
+        select option { background-color: #0f172a; color: #fff; }
+        textarea { height: 110px; resize: vertical; font-family: monospace; }
+        input:focus, select:focus, textarea:focus { border-color: #38bdf8; }
+        button { width: 100%; padding: 12px; background-color: #0284c7; color: white; border: none; border-radius: 6px; font-size: 0.95rem; font-weight: bold; cursor: pointer; transition: background-color 0.2s; }
         button:hover { background-color: #0369a1; }
-        .alert { padding: 10px; border-radius: 6px; margin-bottom: 15px; font-size: 0.85rem; display: none; }
+        .alert { padding: 10px; border-radius: 6px; margin-bottom: 15px; font-size: 0.85rem; display: none; line-height: 1.4; }
         .alert.success { background-color: #064e3b; color: #6ee7b7; border: 1px solid #047857; }
         .alert.error { background-color: #7f1d1d; color: #fca5a5; border: 1px solid #b91c1c; }
+        #customCatGroup { display: none; }
     </style>
 </head>
 <body>
 
 <div class="container">
-    <h2>GitHub Blocklist Manager</h2>
-    <p class="subtitle">Direct GitHub API Sync Panel</p>
+    <h2>ThreatHub Category Manager</h2>
+    <p class="subtitle">Category-wise Bulk Domain Entry & GitHub Sync</p>
 
     <div id="alertBox" class="alert"></div>
 
@@ -35,46 +41,92 @@
     </div>
 
     <div class="form-group">
-        <label>Enter Malicious Domain:</label>
-        <input type="text" id="domainInput" placeholder="e.g., example-badsite.com" />
+        <label>Select Threat Category:</label>
+        <select id="categorySelect" onchange="toggleCustomCategory()">
+            <option value="gambling.txt">Gambling & Betting (gambling.txt)</option>
+            <option value="phishing.txt">Phishing & Fraud (phishing.txt)</option>
+            <option value="malware.txt">Malware & Ransomware (malware.txt)</option>
+            <option value="adult.txt">Adult / Explicit (adult.txt)</option>
+            <option value="ads_trackers.txt">Ads & Trackers (ads_trackers.txt)</option>
+            <option value="custom">-- Add Custom Category --</option>
+        </select>
+    </div>
+
+    <div class="form-group" id="customCatGroup">
+        <label>Custom Category File Name:</label>
+        <input type="text" id="customCategoryInput" placeholder="e.g., crypto_scams (do not add .txt)" />
+    </div>
+
+    <div class="form-group">
+        <label>Enter Malicious Domains (One domain per line):</label>
+        <textarea id="domainInput" placeholder="bad-site1.com&#10;bad-site2.net&#10;https://phishing-site.org/path"></textarea>
     </div>
     
-    <button onclick="addDomainToGitHub()">Add to GitHub Blocklist</button>
+    <button onclick="addDomainsToGitHub()">Add Domains to Selected Category</button>
 </div>
 
 <script>
-    // আপনার Repo সম্পর্কিত তথ্য দিন
     const REPO_OWNER = "Atikur126"; 
     const REPO_NAME = "ThreatHub";
-    const FILE_PATH = "blocklist.txt"; // Repo-তে থাকা ফাইল নাম
 
-    // Token LocalStorage-এ সেভ রাখা
     document.getElementById('ghToken').value = localStorage.getItem('gh_pat_token') || '';
+
+    function toggleCustomCategory() {
+        const select = document.getElementById('categorySelect');
+        const customGroup = document.getElementById('customCatGroup');
+        if (select.value === 'custom') {
+            customGroup.style.display = 'block';
+        } else {
+            customGroup.style.display = 'none';
+        }
+    }
+
+    function getSelectedFileName() {
+        const select = document.getElementById('categorySelect');
+        if (select.value === 'custom') {
+            let customName = document.getElementById('customCategoryInput').value.trim().toLowerCase();
+            customName = customName.replace(/[^a-z0-9_-]/g, '');
+            return customName ? `${customName}.txt` : null;
+        }
+        return select.value;
+    }
 
     function showAlert(msg, type) {
         const box = document.getElementById('alertBox');
         box.className = `alert ${type}`;
         box.innerText = msg;
         box.style.display = 'block';
-        setTimeout(() => box.style.display = 'none', 4000);
+        if (type === 'success') {
+            setTimeout(() => box.style.display = 'none', 5000);
+        }
     }
 
-    async function addDomainToGitHub() {
+    async function addDomainsToGitHub() {
         const token = document.getElementById('ghToken').value.trim();
-        let domain = document.getElementById('domainInput').value.trim().toLowerCase();
-        domain = domain.replace(/^https?:\/\//, '').replace(/\/.*$/, '');
+        const rawInput = document.getElementById('domainInput').value.trim();
+        const fileName = getSelectedFileName();
 
         if (!token) return showAlert("GitHub Access Token দিন!", "error");
-        if (!domain) return showAlert("সঠিক ডোমেইন নাম দিন!", "error");
+        if (!fileName) return showAlert("সঠিক কাস্টম ক্যাটাগরির নাম দিন!", "error");
+        if (!rawInput) return showAlert("অন্তত একটি ডোমেইন নাম লিখুন!", "error");
 
         localStorage.setItem('gh_pat_token', token);
 
-        const apiUrl = `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${FILE_PATH}`;
+        // ডোমেইন ফিল্টারিং ও ইউআরএল ক্লিনআপ
+        const newDomains = rawInput.split('\n')
+            .map(line => {
+                let d = line.trim().toLowerCase();
+                return d.replace(/^https?:\/\//, '').replace(/\/.*$/, '');
+            })
+            .filter(d => d.length > 0);
+
+        if (newDomains.length === 0) return showAlert("সঠিক ডোমেইন এন্ট্রি পাওয়া যায়নি!", "error");
+
+        const apiUrl = `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${fileName}`;
 
         try {
-            showAlert("GitHub-এর সাথে কানেক্ট করা হচ্ছে...", "success");
+            showAlert(`GitHub-এর সাথে সেভ করা হচ্ছে (${fileName})...`, "success");
 
-            // ১. বর্তমান ফাইল রিড করা
             let getResponse = await fetch(apiUrl, {
                 headers: { "Authorization": `token ${token}` }
             });
@@ -87,22 +139,28 @@
                 fileSha = fileData.sha;
                 currentContent = decodeURIComponent(escape(atob(fileData.content)));
             } else if (getResponse.status !== 404) {
-                throw new Error("ফাইল রিড করতে ব্যর্থ! Token বা Repo তথ্য চেক করুন।");
+                throw new Error("ফাইল রিড করতে ব্যর্থ! Token বা Repo অনুমতি চেক করুন।");
             }
 
-            // ২. ডুপ্লিকেট চেক
-            let domainList = currentContent.split('\n').map(d => d.trim()).filter(Boolean);
-            if (domainList.includes(domain)) {
-                return showAlert("ডোমেইনটি আগেই ব্লক লিস্টে আছে!", "error");
+            let existingList = currentContent.split('\n').map(d => d.trim()).filter(Boolean);
+            
+            // ডুপ্লিকেট চেকিং
+            let addedCount = 0;
+            newDomains.forEach(domain => {
+                if (!existingList.includes(domain)) {
+                    existingList.push(domain);
+                    addedCount++;
+                }
+            });
+
+            if (addedCount === 0) {
+                return showAlert(`ইনপুট দেওয়া ডোমেইনগুলো আগেই "${fileName}" ফাইলে ব্লক করা রয়েছে!`, "error");
             }
 
-            // ৩. নতুন লিস্ট তৈরি ও Base64 Encode
-            domainList.push(domain);
-            domainList.sort();
-            let updatedContent = domainList.join('\n');
+            existingList.sort();
+            let updatedContent = existingList.join('\n');
             let encodedContent = btoa(unescape(encodeURIComponent(updatedContent)));
 
-            // ৪. GitHub API দিয়ে Commit করা
             let putResponse = await fetch(apiUrl, {
                 method: "PUT",
                 headers: {
@@ -110,15 +168,18 @@
                     "Content-Type": "application/json"
                 },
                 body: JSON.stringify({
-                    message: `Added ${domain} via Web Panel`,
+                    message: `Added ${addedCount} domain(s) to ${fileName} via Web Panel`,
                     content: encodedContent,
                     sha: fileSha ? fileSha : undefined
                 })
             });
 
             if (putResponse.ok) {
-                showAlert(`সফলভাবে "${domain}" ব্লক লিস্টে যোগ হয়েছে!`, "success");
+                showAlert(`সফলভাবে ${addedCount}টি ডোমেইন "${fileName}" ফাইলে যোগ হয়েছে!`, "success");
                 document.getElementById('domainInput').value = '';
+                if(document.getElementById('categorySelect').value === 'custom') {
+                    document.getElementById('customCategoryInput').value = '';
+                }
             } else {
                 let err = await putResponse.json();
                 showAlert("Commit ব্যর্থ: " + (err.message || "অজানা সমস্যা"), "error");
