@@ -101,6 +101,7 @@
 ||1wincasino-india.org^
 ||1wincasinoindia.net^
 ||1wincasinoindia.org^
+||1winindiacasino.org^
 ||1wins.in^
 ||1x-bet.com.in^
 ||1xbanglabet.com^
@@ -1559,6 +1560,7 @@
 ||casinotikitakafr.com^
 ||casinotikitakafrance.com^
 ||casinova.com^
+||casinoverdictindia.com^
 ||casinovibedesi.com^
 ||casinowinbig.com^
 ||casinowinmega.de^
@@ -3618,6 +3620,7 @@
 ||parimatch-casino-in.com^
 ||parimatch-casino.kr^
 ||parimatch-casinox.com^
+||parimatch-online-casino.co.kr^
 ||parimatch-online-casino.com^
 ||parimatchca.net^
 ||parimatchcasino-au.com^
@@ -3728,6 +3731,7 @@
 ||rajabets4.com^
 ||rajabets6.forum^
 ||rajabetsapk.com^
+||rajabetscasino.com^
 ||rajabetsindia.net^
 ||rajabetslogin.net^
 ||rajabetsofficial.com^
@@ -3812,6 +3816,7 @@
 ||slots-khelo.net^
 ||slots-megaways.se^
 ||slots.ind.in^
+||slots247india.com^
 ||slots777-bangla.com^
 ||slots777-khelo.com^
 ||slotsbaji.net^
@@ -3835,6 +3840,7 @@
 ||slotsonline.co.in^
 ||slotsparimatch.com^
 ||slotsspinapp.in^
+||slotstipsindia.com^
 ||smartworldhome.in^
 ||smjilicasinoph.com^
 ||smjiligcashcasino.com^
@@ -3898,6 +3904,7 @@
 ||teenpattiindianpoker.com^
 ||tekkabuzz-casino-bd.com^
 ||teslapowerusa.in^
+||textbooq.in^
 ||tez888.net^
 ||the-columnist.co.in^
 ||the-megacasino.com^
@@ -4005,6 +4012,7 @@
 ||ultrawin.co.in^
 ||updesignswebs.xyz^
 ||upipaycasinoindia.com^
+||valor-casino-india.org^
 ||valor-india-casino.com^
 ||valorcasinoindia.org^
 ||vangogh360.in^
