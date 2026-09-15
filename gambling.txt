@@ -112,6 +112,7 @@
 ||1xbet-bd.co^
 ||1xbet-bd.one^
 ||1xbet-download-bd.net^
+||1xbet-ind.net^
 ||1xbet-india.live^
 ||1xbet-india.net^
 ||1xbet-khelo.net^
@@ -1489,6 +1490,7 @@
 ||casinoglory.pro^
 ||casinoglorybangladesh.com^
 ||casinoglorybd.com^
+||casinogurudesi.com^
 ||casinoin.io^
 ||casinoindia.net^
 ||casinoindiahub.com^
@@ -1967,6 +1969,7 @@
 ||indianrestaurants.xyz^
 ||indianslotsgames.com^
 ||indiaslots.app^
+||indiaslotsplaynow.com^
 ||indibet-login.com^
 ||indibet.in^
 ||indibetcasino.net^
