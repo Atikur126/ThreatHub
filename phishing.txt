@@ -228,6 +228,7 @@
 ||jaagrav.in^
 ||jagriti.gcect.org.in^
 ||jmpindia.com^
+||jrsdesignart.com^
 ||jsfordesigners.davemart.in^
 ||jujutsukaisen.in^
 ||jupitercloud.in^
