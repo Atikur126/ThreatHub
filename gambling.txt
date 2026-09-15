@@ -3157,6 +3157,7 @@
 ||megabet-casino-nl.com^
 ||megabet-casinoo.com^
 ||megabet-casinos.nl^
+||megabet-nlcasino.com^
 ||megabet-paradise.com^
 ||megabet.cloud^
 ||megabet555.com^
@@ -3457,6 +3458,7 @@
 ||megawin88slots.com^
 ||megawincasino-1.com^
 ||megawincasino-it.com^
+||megawincasino.com^
 ||megawincasino1.net^
 ||megawincasinofr.org^
 ||megawincasinoplay.com^
@@ -3479,6 +3481,7 @@
 ||megawinonlinecasino.com^
 ||megawins.pro^
 ||megawinslotscasino.net^
+||megawinzcasino.com^
 ||megaworldcasino.info^
 ||megaworldcasino.net^
 ||megaworldcasino.org^
