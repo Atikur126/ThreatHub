@@ -36,6 +36,7 @@
 ||10cric.com^
 ||10cric2026.com^
 ||10criccasino.org^
+||10cricmedia.com^
 ||10jili.one^
 ||10jili46.com^
 ||10jili47.com^
@@ -129,7 +130,9 @@
 ||1xbetbd-bangladesh.com^
 ||1xbetdownload.in^
 ||1xbetindia247.com^
+||1xbetindiabonus.com^
 ||1xbetindiadwnld.com^
+||1xbetindiamobile.com^
 ||1xbetindian.app^
 ||1xbetindian.net^
 ||1xbetiosappindia.com^
@@ -1124,6 +1127,7 @@
 ||betandreas-india.com^
 ||betandreas.com.in^
 ||betandreas.in^
+||betbarter.com^
 ||betbarter2.com^
 ||betbhaibet.in^
 ||betbook247.com^
@@ -1236,6 +1240,7 @@
 ||betwayarabia.com^
 ||betwayargentina.com.ar^
 ||betwayasia.com^
+||betwaybwin.com^
 ||betwaycanadacasino.com^
 ||betwaycares.co.za^
 ||betwaycasino-ar.com^
@@ -1352,6 +1357,7 @@
 ||casino-betway.com^
 ||casino-crickex-app.com^
 ||casino-crickex-login.com^
+||casino-crickex.com^
 ||casino-glory-casino.com^
 ||casino-glory.com^
 ||casino-glory.in^
@@ -1538,6 +1544,7 @@
 ||chaipe.in^
 ||chinabetway.com^
 ||cintakartu.com^
+||cjkassociates.co.in^
 ||ck444-casino-bangladesh.org^
 ||ck444-casino-bd.com^
 ||cleantechworld.in^
@@ -1592,6 +1599,7 @@
 ||dailysports.net^
 ||datavisiondesign.com^
 ||db-bet-bd.org^
+||db-bet.in^
 ||dbetway.com^
 ||dddjilicasinoph.com^
 ||dddjiligcashcasino.com^
@@ -1600,6 +1608,7 @@
 ||delapanmega.xyz^
 ||deltin-casino.in^
 ||demarvelcasino.com^
+||deposit1xbetindia.com^
 ||desibetsage.com^
 ||desicasinoforreal.com^
 ||desicasinohub.com^
@@ -1638,6 +1647,7 @@
 ||duelcasinoindiawin.com^
 ||dust2.in^
 ||duupdates.in^
+||dwnld1xbetindia.com^
 ||e28ph01aff.com^
 ||easybajicasino.com^
 ||easypaisacasino.com.pk^
@@ -1878,6 +1888,7 @@
 ||in-baterybet.in^
 ||in.indibet.in^
 ||in4rabetcasino.com^
+||inbetwaycasino.com^
 ||incenza.in^
 ||ind-baterybets.com^
 ||ind-spr.com^
@@ -3629,6 +3640,7 @@
 ||playspinsofglorycasino.com^
 ||poker-bangla.com^
 ||poker-bangla.net^
+||poker-bcindia.com^
 ||poker-khelo.com^
 ||pokerdom-ind.com^
 ||pokerglory.pro^
@@ -3676,6 +3688,7 @@
 ||rajabets.run^
 ||rajabets02.com^
 ||rajabets1.co^
+||rajabets1.com^
 ||rajabets2.com^
 ||rajabets2.net^
 ||rajabets3.com^
@@ -3684,6 +3697,7 @@
 ||rajabetsapk.com^
 ||rajabetsindia.net^
 ||rajabetslogin.net^
+||rajabetsofficial.com^
 ||rajabetssite.com^
 ||rajbet-casino-bonus.in^
 ||rajbet-login.com^
@@ -3695,6 +3709,8 @@
 ||rajbetonlinecasino.com^
 ||reallotus365.com^
 ||realmoneycasinoindia.com^
+||reddyanna.pro^
+||reddyannax.pro^
 ||roobet-casino-india.com^
 ||roobet.com^
 ||roshanpestcontrol.in^
@@ -3783,6 +3799,7 @@
 ||slotsmegacasino.net^
 ||slotsmeta.in^
 ||slotsmostbet-bd.com^
+||slotsonline.co.in^
 ||slotsparimatch.com^
 ||slotsspinapp.in^
 ||smartworldhome.in^
@@ -4058,6 +4075,7 @@
 ||yolo247-casino.org^
 ||yolo247-india-casino.com^
 ||yolo247-online-casino-india.org^
+||yolo247-online-casino.com^
 ||yolo247-online-casino.org^
 ||yolo247.com^
 ||yolo247casinoindia.org^
