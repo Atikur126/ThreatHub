@@ -4083,8 +4083,11 @@
 ||winmega-casino-nl.nl^
 ||winmega-casinos.com^
 ||winmega.com^
+||winmegacasino-it.com^
 ||winmegacasino-nl.com^
 ||winmegacasino.fi^
+||winmegacasinos.com^
+||winmegacasinos.de^
 ||winstarexch.co.in^
 ||winstarexch.in^
 ||winum-casino-india.one^
