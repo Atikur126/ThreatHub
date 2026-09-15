@@ -848,6 +848,7 @@
 ||bd-bitstarz-app.com^
 ||bd-bitstarz-bonus.com^
 ||bd-bitstarz-casino.com^
+||bd-bitstarz.com^
 ||bd-bizzocasino.com^
 ||bd-blackchippoker.com^
 ||bd-bloodyslots.com^
@@ -969,6 +970,7 @@
 ||bd-krikyacasino.com^
 ||bd-lemoncasino.com^
 ||bd-libertyslots.com^
+||bd-linebetcasino.com^
 ||bd-linebetslots.com^
 ||bd-linebetsports.com^
 ||bd-lokicasino.com^
@@ -1017,6 +1019,7 @@
 ||bd-partypoker.com^
 ||bd-pinup-casino.com^
 ||bd-pinupslots.com^
+||bd-pistolocasino.com^
 ||bd-platincasino.com^
 ||bd-play-poker.com^
 ||bd-playabets.com^
@@ -1043,6 +1046,7 @@
 ||bd-rollbit-casino.com^
 ||bd-roninslots.com^
 ||bd-roobet-casino.com^
+||bd-roxcasino.com^
 ||bd-safecasino.com^
 ||bd-sbobet-casino.com^
 ||bd-sbobetcasino.com^
@@ -1050,6 +1054,7 @@
 ||bd-sbobetsports.com^
 ||bd-sevencasino.com^
 ||bd-sgcasino.com^
+||bd-sierracasino.com^
 ||bd-slamzcasino.com^
 ||bd-slotscity.com^
 ||bd-slotsdynamite.com^
@@ -1078,6 +1083,7 @@
 ||bd-supercatcasino.com^
 ||bd-supersevencasino.com^
 ||bd-surfcasino.com^
+||bd-theonlinecasino.com^
 ||bd-tikalcasino.com^
 ||bd-tropicanacasino.com^
 ||bd-turbocasino.com^
@@ -1102,6 +1108,7 @@
 ||bd-x7casino.com^
 ||bd-xbet-casino.com^
 ||bd-ybets.com^
+||bd-yoocasino.com^
 ||bd-yoyocasino.com^
 ||bd-zeslots.com^
 ||bd-zetcasino.com^
@@ -1516,6 +1523,7 @@
 ||casinomegalogowanie.pl^
 ||casinomegamall.xyz^
 ||casinomegapari-mx.com^
+||casinomegapari.com.pl^
 ||casinomegawins.com^
 ||casinonestindia.com^
 ||casinonookdesi.com^
@@ -1709,6 +1717,7 @@
 ||ezjili.org^
 ||ezjili.pro^
 ||fabet.in^
+||fafabet.com^
 ||fairbex.com^
 ||fairplay-casino-india.com^
 ||fairplay-casino.one^
