@@ -120,6 +120,7 @@
 ||1xbetapk-bangla.com^
 ||1xbetapk-khelo.com^
 ||1xbetapkdownloadindia.com^
+||1xbetapp-baji.com^
 ||1xbetapp-bangla.com^
 ||1xbetapp-bd.com^
 ||1xbetapp-khelo.com^
@@ -145,6 +146,7 @@
 ||1xbetpromocodesingapore.com^
 ||1xbetsapk-bd.com^
 ||1xbit.com^
+||1xslots-baji.com^
 ||1xwazir.in^
 ||200jili.app^
 ||200jili.co^
@@ -302,6 +304,7 @@
 ||888casino-baji.com^
 ||888casino-bangla.com^
 ||888casino-bangla.net^
+||888casino-bangladesh.com^
 ||888casino-khelo.com^
 ||888casino-khelo.net^
 ||888casinoindia.pro^
@@ -352,6 +355,8 @@
 ||9kboss-india-casino.org^
 ||9kbosscasinoindia.com^
 ||9kbossindiacasino.com^
+||a71-bd-casino.org^
+||a71casinobangladesh.com^
 ||a999jili.com^
 ||aaajili-1.com^
 ||aaajili-apk.com^
@@ -647,14 +652,17 @@
 ||azjiligcashcasino.com^
 ||b288jili.com^
 ||b999jili.com^
+||babu88-casino-bd.org^
 ||babu88-casino-bgd.com^
 ||babu88-slots.net^
 ||babu88888.com^
 ||babu88bd.com^
 ||babu88bets.com^
 ||babu88bets.net^
+||babu88casino-bangladesh.com^
 ||babu88casino-bgd.org^
 ||babu88casino.info^
+||babu88casinobangladesh.org^
 ||babu88f.com^
 ||babu88livecasino.com^
 ||babu88p.com^
@@ -693,6 +701,7 @@
 ||bajislots.org^
 ||banger-bd-casino.com^
 ||banger-casino-bangladesh.com^
+||banger-casino-bangladesh.org^
 ||bangercasino-bd.com^
 ||bangercasino-bd.org^
 ||banglabedcasino.com^
@@ -732,6 +741,7 @@
 ||banglabetsweet.com^
 ||banglacasino.app^
 ||banglacasino.ws^
+||bangladesh-1xbet.info^
 ||bangladesh-1xbet.org^
 ||bangladesh-mcw-casino.com^
 ||bangladesh-mcwcasino.com^
@@ -764,9 +774,11 @@
 ||bcpokerindia.com^
 ||bd-10bet-casino.com^
 ||bd-123bet-casino.com^
+||bd-1redcasino.com^
 ||bd-1wincasino.com^
 ||bd-1winslots.com^
 ||bd-1xbet-affiliate.com^
+||bd-1xbet-apk.com^
 ||bd-1xbet-download.com^
 ||bd-1xbet-login.com^
 ||bd-1xbet-mobile.com^
@@ -797,12 +809,15 @@
 ||bd-asgardslots.com^
 ||bd-aureonplaycasino.com^
 ||bd-aviator-casino.com^
+||bd-babu88-casino.com^
 ||bd-baccarat-casino.com^
 ||bd-baji-casino.com^
 ||bd-bajislots.com^
 ||bd-bally-casino.com^
+||bd-banglacasino.com^
 ||bd-bc-poker.com^
 ||bd-bcgame-casino.com^
+||bd-bcgamecasino.com^
 ||bd-bcgameslots.com^
 ||bd-bdcasino.com^
 ||bd-betalice.com^
@@ -850,6 +865,7 @@
 ||bd-casinocat.com^
 ||bd-casinochan.com^
 ||bd-casinocruise.com^
+||bd-casinodays.com^
 ||bd-casinoextreme.com^
 ||bd-casinofreak.com^
 ||bd-casinofriday.com^
@@ -889,6 +905,7 @@
 ||bd-crypto-casino.com^
 ||bd-cwinz-casino.com^
 ||bd-dafabet-casino.com^
+||bd-dafabetcasino.com^
 ||bd-dafabetsite.com^
 ||bd-dafabetsports.com^
 ||bd-detectiveslots.com^
@@ -898,6 +915,7 @@
 ||bd-drakariscasino.com^
 ||bd-driftcasino.com^
 ||bd-duxcasino.com^
+||bd-dynamitecasino.com^
 ||bd-e2bet-casino.com^
 ||bd-emucasino.com^
 ||bd-energycasino.com^
@@ -916,6 +934,8 @@
 ||bd-fugucasino.com^
 ||bd-fun88slots.com^
 ||bd-galacasino.com^
+||bd-galaxycasino.com^
+||bd-gamacasino.com^
 ||bd-gambinoslots.com^
 ||bd-gbets.com^
 ||bd-ggpoker.com^
@@ -936,6 +956,7 @@
 ||bd-iriscasino.com^
 ||bd-iwildcasino.com^
 ||bd-jackpot-casino.com^
+||bd-jeetbuzzcasino.com^
 ||bd-jetcasino.com^
 ||bd-joycasino.com^
 ||bd-justcasino.com^
@@ -981,6 +1002,7 @@
 ||bd-n1casino.com^
 ||bd-nagad-casino.com^
 ||bd-nalucasino.com^
+||bd-nationalcasino.com^
 ||bd-nerocasino.com^
 ||bd-ninjacasino.com^
 ||bd-nyrabets.com^
@@ -1006,6 +1028,7 @@
 ||bd-protoncasino.com^
 ||bd-purebets.com^
 ||bd-quickcasino.com^
+||bd-quickzcasino.com^
 ||bd-qzinocasino.com^
 ||bd-racebets.com^
 ||bd-rainbet.com^
@@ -1016,6 +1039,7 @@
 ||bd-rollbit-casino.com^
 ||bd-roninslots.com^
 ||bd-roobet-casino.com^
+||bd-safecasino.com^
 ||bd-sbobet-casino.com^
 ||bd-sbobetcasino.com^
 ||bd-sbobetslots.com^
@@ -1037,10 +1061,13 @@
 ||bd-solcasino.com^
 ||bd-speedcasino.com^
 ||bd-spincasino.com^
+||bd-spiniacasino.com^
+||bd-spinitacasino.com^
 ||bd-spinitcasino.com^
 ||bd-springbokcasino.com^
 ||bd-stake-casino.com^
 ||bd-starcasino.com^
+||bd-stelariocasino.com^
 ||bd-stupidcasino.com^
 ||bd-supabets-login.com^
 ||bd-supabets.com^
@@ -1058,6 +1085,7 @@
 ||bd-videoslots.com^
 ||bd-vpn-casino.com^
 ||bd-vulkancasino.com^
+||bd-wildcasino.com^
 ||bd-wincasino.com^
 ||bd-winocasino.com^
 ||bd-winwin-apk.com^
@@ -1089,6 +1117,7 @@
 ||bdbanglabetlogin.com^
 ||bdbanglawincasino.com^
 ||bdgbajeecasino.com^
+||bdhibajeecasino.com^
 ||bdmegacasinologin.com^
 ||bdmegacasinoworld.com^
 ||bdmoreeglorycasino.com^
@@ -1729,6 +1758,7 @@
 ||gamix.in^
 ||gayvmr.india12.com^
 ||gbajeecasino.app^
+||gbajeecasino.com^
 ||gbajeecasinologin.com^
 ||gbajeecasinologinapp.com^
 ||gbets.com^
@@ -2354,6 +2384,7 @@
 ||jiliko747.ph^
 ||jilikocasino-ph.com^
 ||jililive-1.com^
+||jililive-baji.com^
 ||jililive-bet.com^
 ||jililive-download.com^
 ||jililive-jit.com^
@@ -3000,6 +3031,7 @@
 ||mcw-online-casino.com^
 ||mcw-slots.com^
 ||mcw85229381aff.com^
+||mcwcasino-baji.com^
 ||mcwcasino-bd.net^
 ||mcwcasinobangladesh.co^
 ||medicity.co.in^
@@ -3455,6 +3487,7 @@
 ||melbetbangladeshonline.com^
 ||melbetbangladeshsite.com^
 ||melbetbanglaofficial.com^
+||melbetbanglaonline.com^
 ||melbetbanglasite.com^
 ||melbetcasino-bangladesh.org^
 ||melbetcasino-india.com^
