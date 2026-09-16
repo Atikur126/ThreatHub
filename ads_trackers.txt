@@ -16549,3 +16549,8 @@
 ||analytics.api.brightcove.com^
 ||analytics.app.lithium.com^
 ||analytics.blueoxtech.com^
+||analytics.brandcrumb.com^
+||analytics.cocos.com^
+||analytics.coscousa.com^
+||analytics.devicebits.com^
+||analytics.disney.go.com.edgekey.net^
