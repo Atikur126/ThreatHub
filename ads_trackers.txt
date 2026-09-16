@@ -2561,6 +2561,7 @@
 ||212-vqk-816.mktoweb.com^
 ||212-wui-188.mktoweb.com^
 ||213-fpu-718.mktoweb.com^
+||213-fzf-233.mktoweb.com^
 ||213-hft-078.mktoweb.com^
 ||213-tun-643.mktoweb.com^
 ||213-uzu-071.mktoweb.com^
