@@ -12251,3 +12251,9 @@
 ||a11y-with-lindsey.ck.page^
 ||a1402.g2.akamai.net^
 ||a16z.mktoweb.com^
+||a1stats.com^
+||a2.adx1.com^
+||a2.zdg.de^
+||a23propertiesgmailcomseller33.carrot.com^
+||a248.e.akamai.net^
+||a2b9-5c35-4f94-6c2c.reporo.net^
