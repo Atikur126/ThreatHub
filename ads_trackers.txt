@@ -16558,3 +16558,5 @@
 ||analytics.ero-advertising.com^
 ||analytics.facebook.com^
 ||analytics.fusepowered.com^
+||analytics.great-short.com^
+||analytics.kleio.info^
