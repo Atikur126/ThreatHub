@@ -77,6 +77,7 @@
 ||003-fjb-098.mktoweb.com^
 ||003-jww-697.mktoweb.com^
 ||003-rxi-070.mktoweb.com^
+||003.adx1.com^
 ||00301808d265.cdn.adx1.com^
 ||0030180ddf3f.cdn.adx1.com^
 ||004-emd-811.mktoweb.com^
