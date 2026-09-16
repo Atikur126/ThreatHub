@@ -16543,3 +16543,9 @@
 ||analytics-ingestion.staging-public.tubi.io^
 ||analytics-stage.ff.avast.com^
 ||analytics-wildtangent-yfdbl8gzl.stackpathdns.com^
+||analytics.adskeeper.co.uk^
+||analytics.adspaces.ero-advertising.com^
+||analytics.adx1.com^
+||analytics.api.brightcove.com^
+||analytics.app.lithium.com^
+||analytics.blueoxtech.com^
