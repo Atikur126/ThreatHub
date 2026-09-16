@@ -16576,3 +16576,5 @@
 ||analytics.shopkick.com^
 ||analytics.spayee.in^
 ||analytics.spoken-tutorial.org^
+||analytics.triplemagicapp.xyz^
+||analytics.tube8.phncdn.com^
