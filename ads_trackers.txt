@@ -22882,3 +22882,5 @@
 ||collage.sjv.io^
 ||collectable.sjv.io^
 ||collectcent.co^
+||collection.ewares.org^
+||collective.com^
