@@ -16572,3 +16572,7 @@
 ||analytics.onezoneapps.com^
 ||analytics.poperblocker.com^
 ||analytics.preprodpress.com^
+||analytics.samdd.me^
+||analytics.shopkick.com^
+||analytics.spayee.in^
+||analytics.spoken-tutorial.org^
