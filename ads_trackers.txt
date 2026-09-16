@@ -16554,3 +16554,7 @@
 ||analytics.coscousa.com^
 ||analytics.devicebits.com^
 ||analytics.disney.go.com.edgekey.net^
+||analytics.do.cloudwalker.tv^
+||analytics.ero-advertising.com^
+||analytics.facebook.com^
+||analytics.fusepowered.com^
