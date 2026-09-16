@@ -16568,3 +16568,7 @@
 ||analytics.myfinances.com^
 ||analytics.n7mobile.com^
 ||analytics.narvar.com^
+||analytics.nemtudo.me^
+||analytics.onezoneapps.com^
+||analytics.poperblocker.com^
+||analytics.preprodpress.com^
