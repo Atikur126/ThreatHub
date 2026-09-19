@@ -1640,6 +1640,7 @@
 ||069nohu.com^
 ||06bdmbet07.com^
 ||06bdmbet45.com^
+||06bet365.com^
 ||06btt.com^
 ||06c5-dbbd-eb79-4cd4.reporo.net^
 ||06cv.com^
@@ -1835,6 +1836,7 @@
 ||078-vhw-791.mktoweb.com^
 ||078-whz-188.mktoweb.com^
 ||07829.com^
+||0782x.com^
 ||078588.com^
 ||0785888.com^
 ||078868.com^
@@ -1853,7 +1855,9 @@
 ||0791pj8.com^
 ||0791wanbo.com^
 ||0791wns666.com^
+||0791wns888.com^
 ||0791xin888.com^
+||0796x.com^
 ||0799ks.com^
 ||079bet-l1.com^
 ||079bet.com^
@@ -1917,6 +1921,7 @@
 ||082-kod-820.mktoweb.com^
 ||082-mjn-771.mktoweb.com^
 ||0822222.com^
+||0823x.com^
 ||08270.com^
 ||08279hk.com^
 ||0828bets.com^
@@ -1928,6 +1933,7 @@
 ||083-sbt-323.mktoweb.com^
 ||083-zlk-944.mktoweb.com^
 ||08312.com^
+||0831x.com^
 ||0832288.com^
 ||083300.com^
 ||0833v.com^
@@ -1969,6 +1975,7 @@
 ||08538.com^
 ||08538c.com^
 ||0853pj8.com^
+||0853wns666.com^
 ||0853wns888.com^
 ||0853xin888.com^
 ||08561.com^
@@ -1991,6 +1998,7 @@
 ||0860r.com^
 ||0860z.com^
 ||086179.com^
+||0865x.com^
 ||0866s.com^
 ||0868jojobet.com^
 ||086nohu.com^
@@ -2016,6 +2024,7 @@
 ||0879x.com^
 ||087nohu.com^
 ||088-aaq-626.mktoweb.com^
+||08809.com^
 ||0881v.com^
 ||0882003.com^
 ||0882010.net^
@@ -2024,6 +2033,7 @@
 ||08841.com^
 ||0884v.com^
 ||08858e.com^
+||08868.app^
 ||0886pj8.com^
 ||0886wns888.com^
 ||0886xin888.com^
@@ -2137,6 +2147,7 @@
 ||08qp097.com^
 ||08qp099.com^
 ||08qp17.com^
+||08win.net^
 ||08xpj08.com^
 ||090-abz-908.mktoweb.com^
 ||090011.xyz^
@@ -2200,6 +2211,7 @@
 ||0931k365.com^
 ||0931wanbo.com^
 ||0931wns666.com^
+||0931wns888.com^
 ||0931xin888.com^
 ||0932t.com^
 ||0933win.com^
@@ -2233,6 +2245,7 @@
 ||0951wanbo.com^
 ||0951wns888.com^
 ||0951xin888.com^
+||095236.com^
 ||095239.com^
 ||09574.com^
 ||095bet.app^
@@ -2368,6 +2381,7 @@
 ||0ou77v0nyx.com^
 ||0pg88.com^
 ||0pxj.com^
+||0richardcasino.com^
 ||0romancasino.com^
 ||0rr.com^
 ||0rr77.com^
@@ -2388,13 +2402,17 @@
 ||0xbetcasinos-de.com^
 ||0xbetcasinos-nl.com^
 ||0xbets1.com^
+||0xbetscasino.com^
 ||0xbetscasino.org^
 ||0xdev.co^
 ||0yabo.com^
 ||0zerkalo-melbet.ru^
 ||0zpdw.com^
 ||1-1xmirror.com^
+||1-2-4-8.com^
+||1-9-8-3.com^
 ||1-bet-casino.com^
+||1-betcasino.com^
 ||1-billionairespin69.com^
 ||1-casino-webcam.com^
 ||1-casinogambling.com^
@@ -2489,6 +2507,7 @@
 ||1001togelin.com^
 ||1001winbola.com^
 ||1002226.com^
+||10024bets10.co^
 ||1002k8.com^
 ||1002v.com^
 ||1002x.com^
@@ -2633,11 +2652,17 @@
 ||1010bet1010.net^
 ||1010bets.com^
 ||1010bets.org^
+||1010bets10.com^
 ||1010casino.com^
 ||10115220.com^
 ||10120bets10.com^
 ||10122bets10.com^
 ||10123bets10.com^
+||10124bets10.com^
+||10125bets10.com^
+||10126bets10.com^
+||10127bets10.com^
+||10128bets10.com^
 ||1012bet19.com^
 ||1012bet21.com^
 ||1012bet34.com^
@@ -2649,9 +2674,11 @@
 ||1012bet92.com^
 ||1012bet93.com^
 ||101304.com^
+||10143bets10.com^
 ||101605.com^
 ||101612.com^
 ||101613.com^
+||10161bets10.com^
 ||101621.com^
 ||101626.com^
 ||101630.com^
@@ -2707,6 +2734,8 @@
 ||103jili.com^
 ||103jili.net^
 ||103tsars.com^
+||10422bets10.com^
+||10425bets10.com^
 ||1044v.com^
 ||10486490.com^
 ||104betkrw.com^
