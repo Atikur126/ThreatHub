@@ -35212,6 +35212,7 @@
 ||lightspeedvt.postaffiliatepro.com^
 ||lightspite.com^
 ||lightstep-collector.api.ua.com^
+||lightstep-public.ingest.meta.lightstep.com^
 ||lightstep-s1mdw1.ei-squared.k8s.sendgrid.net^
 ||lightstep-s1mdw1.k8s.sendgrid.net^
 ||lightstep.kaizen.nvidia.com^
