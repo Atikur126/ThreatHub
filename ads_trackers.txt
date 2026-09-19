@@ -35873,6 +35873,7 @@
 ||link.media.sanoma.fi^
 ||link.plauti.com^
 ||link.sylikes.com^
+||link4app.com^
 ||linkad.com^
 ||linkageinc.mktoweb.com^
 ||linkbuilder.ck.page^
@@ -35972,6 +35973,7 @@
 ||listerine.rpxnow.com^
 ||listerine.ydigitalmedia.com^
 ||listglobally.firstpromoter.com^
+||listingcafe.com^
 ||listrak.com^
 ||lists.adx1.com^
 ||lists.bravenet.com^
@@ -35998,10 +36000,12 @@
 ||liujianfeng.hd10.com^
 ||live-comfortably.sjv.io^
 ||live-core-strong.ck.page^
+||live-cric.com^
 ||live-cricket.live-cric.com^
 ||live-eu.onlidex.com^
 ||live-eu.pushub.net^
 ||live-m.immomo.com^
+||live-matomo-1805527886.eu-west-2.elb.amazonaws.com^
 ||live-redpackrain.ksapisrv.com^
 ||live-trace.bilibili.com^
 ||live.adx1.com^
@@ -36042,4 +36046,5 @@
 ||liveryfinder.info^
 ||livesoccerpt.info^
 ||livesportsonline.info^
+||livestats.noc.uniwa.gr^
 ||livesteaming.com^
