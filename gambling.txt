@@ -7252,8 +7252,10 @@
 ||19winpkr.com^
 ||19yyhh.com^
 ||1aa7771.com^
+||1abet.com^
 ||1absolutewager.com^
 ||1acasino.com^
+||1acasinos.com^
 ||1ace365.com^
 ||1acecasino.com^
 ||1am6.com^
@@ -7278,6 +7280,7 @@
 ||1betcasino1.com^
 ||1betcasinohu.com^
 ||1betflixcasino.com^
+||1betitall.com^
 ||1betqqvip6.pro^
 ||1betriviera.com^
 ||1betriviera1.com^
@@ -7320,8 +7323,10 @@
 ||1ciliospg.com^
 ||1cisnewin.com^
 ||1clickwin.com^
+||1cncbet.com^
 ||1cnyo3q.com^
 ||1colorgame.com^
+||1crocoslots.com^
 ||1cs.fail^
 ||1d6da.com^
 ||1daddycasino.com^
@@ -7356,6 +7361,7 @@
 ||1festawin.com^
 ||1fitnesspg.com^
 ||1flagmancasino.com^
+||1fn88.com^
 ||1fpbet.com^
 ||1freeslotscasino.com^
 ||1fun.net^
@@ -7518,6 +7524,7 @@
 ||1mmm.com^
 ||1mn9tk4.com^
 ||1mobatogel.xyz^
+||1netticasino.com^
 ||1nohu.com^
 ||1ogin-asiacasino89.com^
 ||1oklaro.com^
@@ -7540,6 +7547,7 @@
 ||1playfortuna.com^
 ||1pledoo1.com^
 ||1plus.ph^
+||1pluscasino.com^
 ||1pluscasino.net^
 ||1pluscasino.org^
 ||1plusgame.com^
@@ -7594,7 +7602,10 @@
 ||1redcasinos.nl^
 ||1redcasinosistersites.com^
 ||1redeu.com^
+||1reds-casino.com^
 ||1redslots.uk^
+||1reelscasino.com^
+||1reelscasino.net^
 ||1reng6w.com^
 ||1richardcasino.com^
 ||1rinocasino.co.ua^
@@ -7605,9 +7616,11 @@
 ||1rox-casinos1.ru^
 ||1rox-casinos2.ru^
 ||1royspins1.com^
+||1rrbet.com.br^
 ||1rtptumi123.com^
 ||1ruan6w.com^
 ||1sang6w.com^
+||1sankracasino.com^
 ||1seng6w.com^
 ||1shai6w.com^
 ||1shan6w.com^
@@ -7650,6 +7663,7 @@
 ||1vn777.com^
 ||1vns1.com^
 ||1vodkacasino.ru^
+||1voxcasino.com^
 ||1vulknvegas421.com^
 ||1w.run^
 ||1w6mqs3p.info^
@@ -7805,6 +7819,7 @@
 ||1win4344.ru^
 ||1win722.ru^
 ||1win9.com^
+||1winargentinacasino.com^
 ||1winazcasino.com^
 ||1winbet-brazil.com^
 ||1winbet.co.za^
@@ -7863,6 +7878,7 @@
 ||1wincasinoco.com^
 ||1wincasinocolombia.com^
 ||1wincasinog1.xyz^
+||1wincasinogt.com^
 ||1wincasinoguide.com^
 ||1wincasinoindia.net^
 ||1wincasinoindia.org^
