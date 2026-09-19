@@ -18615,3 +18615,7 @@
 ||sentiance-serenity.datadoghq.com^
 ||sentientservices.com^
 ||sentinelone.mktoweb.com^
+||sentry.dev.geekbot.io^
+||sentry.innovativemetrics.com^
+||sentry.neverbounce.com^
+||sentry.viidea.com^
