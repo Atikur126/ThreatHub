@@ -20538,3 +20538,7 @@
 ||smtp-verifiedoptin-01.aweber.com^
 ||smtp-verifiedoptin-02.aweber.com^
 ||smtp-verifiedoptin-03.aweber.com^
+||smtp01.19840.com^
+||smtp01.accelventures.com^
+||smtp01.afda.net^
+||smtp01.ahacpr.org^
