@@ -7,8 +7,11 @@
 ! total entries: 66
 ||0-bdmbet.com^
 ||0-bet.com^
+||0-betsixty.com^
 ||0-casino.ru^
+||0-p-v-r.com^
 ||0-xbets.net^
+||000-online-casino.com^
 ||000000.com^
 ||000000hd.com^
 ||000000tyc.com^
@@ -201,6 +204,7 @@
 ||004pxj.com^
 ||0051a.com^
 ||0051n.com^
+||005226.com^
 ||005363.com^
 ||005446.com^
 ||0054t.com^
@@ -326,6 +330,7 @@
 ||007bet70.com^
 ||007betcasino.info^
 ||007betslot.com^
+||007game05.one^
 ||007go.xyz^
 ||007jlcasinoph.com^
 ||007jlgcashcasino.com^
@@ -468,6 +473,7 @@
 ||00bestpg.com^
 ||00bet088.com^
 ||00bet99.com^
+||00bets10.com^
 ||00bs.com^
 ||00d88.com^
 ||00go99.com^
@@ -482,6 +488,7 @@
 ||00pg88.com^
 ||00ph92.com^
 ||00phpwin.com^
+||00poker.com^
 ||00rockstarcasino64.com^
 ||00rr88.com^
 ||00rr9980.com^
@@ -527,6 +534,7 @@
 ||010nohu.com^
 ||010p6.com^
 ||010wanbo.com^
+||010wns888.com^
 ||010xin888.com^
 ||0111hui.com^
 ||0112003.com^
@@ -596,6 +604,7 @@
 ||013833.com^
 ||013958.com^
 ||013bet.co^
+||013bet.com^
 ||013bet.net^
 ||013bet02.com^
 ||013bet23.com^
@@ -710,6 +719,8 @@
 ||020nohu.com^
 ||020p6.com^
 ||020wanbo.com^
+||020wns666.com^
+||020wns888.com^
 ||020xin888.com^
 ||021166.com^
 ||0211s.com^
@@ -722,6 +733,7 @@
 ||021nohu.com^
 ||021saibo.com^
 ||021wanbo.com^
+||021wns666.com^
 ||021wns888.com^
 ||021xin888.com^
 ||0221s.com^
@@ -734,12 +746,14 @@
 ||0229x.com^
 ||022nohu.com^
 ||022wanbo.com^
+||022wns888.com^
 ||022xin888.com^
 ||02302.com^
 ||02325.com^
 ||0233win.com^
 ||023nohu.com^
 ||023wns666.com^
+||023wns888.com^
 ||023xfc.com^
 ||023xin888.com^
 ||024.app^
@@ -759,6 +773,7 @@
 ||025saibo.com^
 ||025wanbo.com^
 ||025wns666.com^
+||025wns888.com^
 ||025xin888.com^
 ||0260bets.com^
 ||026172.com^
@@ -772,6 +787,7 @@
 ||027nohu.com^
 ||027saibo.com^
 ||027wanbo.com^
+||027wns888.com^
 ||027xin888.com^
 ||02819.com^
 ||028222.com^
@@ -917,6 +933,7 @@
 ||0331u.mjt.lu^
 ||0333n.com^
 ||0333win.com^
+||0335799.com^
 ||0335n.com^
 ||03368.app^
 ||0336a.com^
@@ -935,6 +952,7 @@
 ||034-vcb-120.mktoweb.com^
 ||034034h.com^
 ||034034n.com^
+||0344n.com^
 ||034nohu.com^
 ||035-cun-211.mktoweb.com^
 ||035-ezr-959.mktoweb.com^
@@ -1013,6 +1031,31 @@
 ||038-tms-870.mktoweb.com^
 ||038-xax-421.mktoweb.com^
 ||038-zql-192.mktoweb.com^
+||038010.com^
+||038020.com^
+||038021.com^
+||038023.com^
+||038024.com^
+||038025.com^
+||038036.com^
+||038042.com^
+||038043.com^
+||038045.com^
+||038051.com^
+||038054.com^
+||038060.com^
+||038061.com^
+||038062.com^
+||038063.com^
+||038064.com^
+||038065.com^
+||038067.com^
+||038072.com^
+||038073.com^
+||038075.com^
+||038076.com^
+||038091.com^
+||038092.com^
 ||0383app.com^
 ||0383bet.com^
 ||038799.com^
@@ -1061,6 +1104,7 @@
 ||040-sms-890.mktoweb.com^
 ||040-uzx-142.mktoweb.com^
 ||04008vip.com^
+||0400n.com^
 ||040107.com^
 ||040108.com^
 ||04018.mjt.lu^
@@ -1095,6 +1139,7 @@
 ||043-cwv-914.mktoweb.com^
 ||043189.com^
 ||0431wanbo.com^
+||0431wns888.com^
 ||0431xin888.com^
 ||0432111.com^
 ||0432222.com^
@@ -1108,6 +1153,7 @@
 ||0432bbb.com^
 ||04336.com^
 ||043390.com^
+||0433n.com^
 ||0433s.com^
 ||0433win.com^
 ||0436666.com^
@@ -1285,6 +1331,7 @@
 ||053305.com^
 ||0533n.com^
 ||0533win.com^
+||0535.com^
 ||053505.com^
 ||0538239.com^
 ||0538866.com^
@@ -1312,15 +1359,27 @@
 ||05500a.com^
 ||05500b.com^
 ||05500c.com^
+||05500d.com^
 ||05500e.com^
 ||05500f.com^
+||05500g.com^
 ||05500h.com^
 ||05500i.com^
 ||05500k.com^
+||05500l.com^
 ||05500m.com^
+||05500n.com^
+||05500o.com^
+||05500p.com^
+||05500q.com^
+||05500r.com^
+||05500s.com^
+||05500t.com^
 ||05500u.com^
 ||05500v.com^
 ||05500x.com^
+||05500y.com^
+||05500z.com^
 ||0551pj8.com^
 ||0551wanbo.com^
 ||0551wns888.com^
@@ -1330,10 +1389,12 @@
 ||05533dd.com^
 ||05533g.com^
 ||05533h.com^
+||05533hh.com^
 ||05533i.com^
 ||05533l.com^
 ||05533m.com^
 ||05533n.com^
+||05533nn.com^
 ||05533o.com^
 ||05533oo.com^
 ||05533q.com^
@@ -1344,6 +1405,7 @@
 ||05533x.com^
 ||0553v.com^
 ||0556n.com^
+||055777.com^
 ||0557v.com^
 ||055nohu.com^
 ||056-cyx-151.mktoweb.com^
@@ -1365,6 +1427,7 @@
 ||0571saibo.com^
 ||0571wanbo.com^
 ||0571wns666.com^
+||0571wns888.com^
 ||0571xin888.com^
 ||05724.com^
 ||0573z6.com^
@@ -1373,6 +1436,7 @@
 ||0576bet365.com^
 ||0576z6.com^
 ||05777.co^
+||0577777.com^
 ||057996.com^
 ||057nohu.com^
 ||058-cbn-553.mktoweb.com^
@@ -1399,6 +1463,7 @@
 ||059-pjk-601.mktoweb.com^
 ||0591pj8.com^
 ||0591wns666.com^
+||0591wns888.com^
 ||0591xin888.com^
 ||059233.com^
 ||0594pota.adx1.com^
