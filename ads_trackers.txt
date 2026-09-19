@@ -20432,3 +20432,13 @@
 ||smetrics.1kapp.com^
 ||smetrics.autodesk.com.cn^
 ||smetrics.danchuangglobal.com^
+||smetrics.hillrom.com^
+||smetrics.humanabonehealth.com^
+||smetrics.humanapharmacy.com^
+||smetrics.imedeen.us^
+||smetrics.jamiechadwick.com^
+||smetrics.meteomedia.com^
+||smetrics.mirkota.ru^
+||smetrics.otsukapatientsupport.com^
+||smetrics.pfainvest.dk^
+||smetrics.pipesandcigars.com^
