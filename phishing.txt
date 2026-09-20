@@ -4161,3 +4161,4 @@
 ||booking.bookingverif2421.com^
 ||booking.cheksupdguest-parthers.com^
 ||booking.com-830b2c931f.com^
+||borislosev.ru^
