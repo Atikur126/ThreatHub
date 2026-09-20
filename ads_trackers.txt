@@ -16794,6 +16794,7 @@
 ||padcoin.org^
 ||paddleads.com.au^
 ||paded.co1.qualtrics.com^
+||padelmafia.co.za^
 ||padgroup.com.vn^
 ||padsplit.sjv.io^
 ||padx.com^
@@ -16859,6 +16860,7 @@
 ||paid-work-at-home.com^
 ||paid4clicks.de^
 ||paidsearchexperts.com^
+||paidsurveysfree.com^
 ||paidtime.com^
 ||paiimwaqayjb.hd10.com^
 ||paimgcdn.baidu.com^
@@ -17074,6 +17076,7 @@
 ||pastie.org^
 ||pastrycity.com^
 ||pasupalan.com^
+||patelshop.com^
 ||pathfactory.com^
 ||pathfinder.mmkh.net^
 ||pathfinder.salesloft.com^
@@ -17086,6 +17089,7 @@
 ||patricktabeauty.sjv.io^
 ||patriotads.com^
 ||pattern-recognition-in-physics.cwebh.org^
+||patym.snikers.com^
 ||pauc.syndication.kbb.com^
 ||pauladerubeis.ck.page^
 ||paulas-choice-au.sjv.io^
@@ -17424,6 +17428,7 @@
 ||pg.enviedeplus.be^
 ||pg.enviedeplus.com^
 ||pg.epithimies.gr^
+||pg.everydayme.com.ph^
 ||pg.everydayme.hu^
 ||pg.everydayme.pl^
 ||pg.fi.pampers.com^
@@ -17445,6 +17450,7 @@
 ||pg.pampers.at^
 ||pg.pampers.bg^
 ||pg.pampers.co.id^
+||pg.pampers.co.il^
 ||pg.pampers.co.ke^
 ||pg.pampers.com.hr^
 ||pg.pampers.com.vn^
@@ -17453,6 +17459,7 @@
 ||pg.pampers.fi^
 ||pg.pampers.gr^
 ||pg.pampers.hu^
+||pg.pampers.ie^
 ||pg.pampers.no^
 ||pg.pampers.pl^
 ||pg.pampers.ro^
@@ -17494,6 +17501,7 @@
 ||phenomenalglobe.ck.page^
 ||phigolf.info^
 ||philapat2.cwebh.org^
+||philips.gr.com^
 ||philips.ydigitalmedia.com^
 ||philla.org^
 ||philstraffic.com^
@@ -17517,6 +17525,7 @@
 ||phoneboxexperiment.com^
 ||phoneburner.logrocket.com^
 ||phonecallapi.micloud.xiaomi.net^
+||phonenumberbook.com^
 ||phonesdo.com^
 ||phonespybubble.com^
 ||phorw.aweber.com^
@@ -17569,6 +17578,7 @@
 ||picker.co.il^
 ||pickfu.firstpromoter.com^
 ||picklemonkads.in^
+||pickupclean.com^
 ||pickyourplum.hasoffers.com^
 ||piclick.cn^
 ||picmeta202112.xyz^
@@ -17577,6 +17587,7 @@
 ||picsnippets.infusionsoft.com^
 ||picture-the-magic-llc.ck.page^
 ||picture.cdnsoar.com^
+||pictureguycabo.info^
 ||picturepark-wpengine.aweber.com^
 ||picturethemagic.ck.page^
 ||piece.info^
@@ -18583,6 +18594,7 @@
 ||pluralsight3.mktoweb.com^
 ||plus.digitalbazaar.org^
 ||plus.neurogami.com^
+||plus500.com^
 ||pluseight.co.uk^
 ||plutio.firstpromoter.com^
 ||plutoclean.com^
