@@ -17600,6 +17600,9 @@
 ||banrusrlas.web.app^
 ||banrusrldgosd.web.app^
 ||bansalgroup.com.au^
+||bapfresno.org^
+||barrilderoble.com^
+||baseballgame.itemdb.com^
 ||besttoolbars.net^
 ||besttop.mobi^
 ||bet73019.com^
