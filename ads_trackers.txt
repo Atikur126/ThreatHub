@@ -21892,6 +21892,7 @@
 ||reachedgehelp.reachlocal.com^
 ||reachlocal.com^
 ||reachlocal.localiq.com^
+||reachtaxi.com^
 ||reachx.ad-tech-group.com^
 ||reactandshare.com^
 ||reactorresearch.co1.qualtrics.com^
@@ -21910,10 +21911,12 @@
 ||reaim.me^
 ||real-buy.rentshop.org^
 ||real-housemoms-llc.ck.page^
+||real-marketing.com^
 ||real-wife-lessons.ck.page^
 ||real.qualtrics.com^
 ||real7a-img.rbl.ms^
 ||realcastmedia.com^
+||realestate.co.jp^
 ||realestate.coscousa.com^
 ||realestate.grupoesmeralda.com^
 ||realestate.piece.info^
@@ -22103,6 +22106,7 @@
 ||refreshed-moms.ck.page^
 ||refreshing-glowing.thisiscolossal.com^
 ||reg.360safe.com^
+||reg.ru^
 ||regalia.m.herffjones.com^
 ||regartoptique1458.analytics-ev.fr^
 ||regattadebenhams.inteligentreturns.net^
@@ -22659,6 +22663,7 @@
 ||reviveadserver.com^
 ||reviveadserverrestapi.com^
 ||revivecdn-metartnetwork.b-cdn.net^
+||revivemore.com^
 ||revjet.com^
 ||revo-guitar-straps.ck.page^
 ||revolut.sjv.io^
@@ -22680,6 +22685,7 @@
 ||rfhhd.com^
 ||rfn2.adj.st^
 ||rfoxmedia.com^
+||rfsafe.com^
 ||rfse.adj.st^
 ||rfstat.digicon.cz^
 ||rfxcel.com^
@@ -22753,6 +22759,7 @@
 ||rickytestapp.rpxnow.com^
 ||ricoh.qualtrics.com^
 ||ricon-lift-repair-wiring-diagram.santiago.ytliu.info^
+||ricontools.com^
 ||ricor.ru^
 ||rideaway.sjv.io^
 ||ridedical-riseats.com^
@@ -22763,6 +22770,7 @@
 ||rightscale.mktoweb.com^
 ||rightsizedinventory.com^
 ||rightsmedia.com^
+||rihoworld.com^
 ||rijs.mjt.lu^
 ||rike.cmaxsrv.com^
 ||rimgak.mmtcdn.com^
@@ -22789,6 +22797,7 @@
 ||rite.scribd.org^
 ||rites.de^
 ||ritewealth.com^
+||ritikhush.com^
 ||ritsaunders360.qualtrics.com^
 ||ritsllc.com^
 ||riuv.mjt.lu^
@@ -22896,6 +22905,7 @@
 ||rnjoab.esy.espub16.bravenet.com^
 ||rnjowr.mirtesen.ru^
 ||rnmz.mjt.lu^
+||rnodernssolution.com^
 ||rnq6.mjt.lu^
 ||rnrb.adj.st^
 ||rntalks.ck.page^
@@ -22976,6 +22986,7 @@
 ||rojoma.com^
 ||roku-sr.datadoghq.com^
 ||rol.co.uk^
+||rol.ru^
 ||rolesadmin.aweber.com^
 ||roletaryk.info^
 ||rolex.gr.com^
@@ -23001,6 +23012,7 @@
 ||ronaldheft.com^
 ||rong-gotten.aweber.com^
 ||roninsights.com^
+||roofcoins.com^
 ||roofing-superstore.sjv.io^
 ||roofsnap.mktoweb.com^
 ||roofstock.sjv.io^
@@ -23305,6 +23317,8 @@
 ||runetki.joyreactor.ru^
 ||runm.mjt.lu^
 ||runnerclick.ck.page^
+||runnergamesch.com^
+||runnergameshk.com^
 ||runners-cdn.rebelmouse.com^
 ||runpanther.io^
 ||runsignup.mktoweb.com^
@@ -23779,6 +23793,8 @@
 ||s3proxy.scloud.letv.com^
 ||s3vfslko.micpn.com^
 ||s4.socialannex.com^
+||s400708029.siteweb-initial.fr^
+||s401288291.siteweb-initial.fr^
 ||s41eu.socialannex.com^
 ||s49kuouq.micpn.com^
 ||s4ap.socialannex.com^
@@ -23883,6 +23899,7 @@
 ||sailpoint.lookbookhq.com^
 ||saime.org^
 ||sainc.com^
+||saintmc.com^
 ||saksfifthavenue.co1.qualtrics.com^
 ||saksfifthavenue.like2buy.curalate.com^
 ||sakura.s-y.gr.com^
@@ -24065,6 +24082,7 @@
 ||samsonsshoppe-gmail-com.ck.page^
 ||samsung.ydigitalmedia.com^
 ||samsungelectronics.com^
+||samsungotn.net^
 ||samsungus.kampyle.com^
 ||samtykke.bilbasen.dk^
 ||samtykke.dba.dk^
@@ -24130,6 +24148,7 @@
 ||sas2trk.com^
 ||sasdk.3g.qq.com^
 ||sasets-auto.rbl.ms^
+||sasmsclub.com^
 ||sasolbusaries.com^
 ||sassyadserver.com^
 ||sasupenn.qualtrics.com^
@@ -24146,6 +24165,7 @@
 ||saur-serviceclient.slgnt.eu^
 ||saur-serviceclient.smc.slgnt.eu^
 ||sauron.seedrs.com^
+||sauteenacoochee.com^
 ||savage-x-fenty-affiliate.sjv.io^
 ||savagexfentyinfluencer.sjv.io^
 ||savanta.com^
@@ -24236,6 +24256,7 @@
 ||schoolsfirstfuc.org^
 ||schrade.sjv.io^
 ||schrodinger.mktoweb.com^
+||schuh-zentgraf.de^
 ||schule.bravenet.com^
 ||schulich.co1.qualtrics.com^
 ||schwab.accountkit.com^
@@ -24384,6 +24405,7 @@
 ||sdksync.prod.vuforia.com^
 ||sdkweb.playstove.com^
 ||sdl.360safe.com^
+||sdouthwest.com^
 ||sdr.salesloft.com^
 ||sdsuuw.qualtrics.com^
 ||sdu8.privetkanarskieostrova.com^
@@ -24534,6 +24556,7 @@
 ||search123.uk.com^
 ||searchciomidmarket.com^
 ||searchcloudstorage.com^
+||searchfusion.com^
 ||searchgage.com^
 ||searchingnews.com^
 ||searchingparty.com^
