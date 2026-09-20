@@ -34030,6 +34030,7 @@
 ||tflptraffic.offerspace.com^
 ||tfonts.com^
 ||tform-0710-dnjzqn.tf-cdn.net^
+||tfx.zbd.hjbckh70.idy360.com^
 ||tg259.infusionsoft.com^
 ||tg974.infusionsoft.com^
 ||tgimore.pl^
@@ -34205,6 +34206,7 @@
 ||themediatrend.info^
 ||themeparkhipster.ck.page^
 ||themes.rbl.ms^
+||themesets.com^
 ||themiamiheat.like2buy.curalate.com^
 ||themintjulepboutique.like2buy.curalate.com^
 ||themisapptravelguide.gr.com^
@@ -34263,6 +34265,7 @@
 ||thespectrum.localiq.com^
 ||thesprintbook.ck.page^
 ||thestarpress.localiq.com^
+||thestartmagazine.com^
 ||theswitch.co1.qualtrics.com^
 ||theta.hionline.org^
 ||thetalententerprise.co1.qualtrics.com^
@@ -34307,6 +34310,7 @@
 ||thirdwx.qlogo.cn^
 ||thirun.rpxnow.com^
 ||this-old-tooth.ck.page^
+||thisbeautifulbreath.co.uk^
 ||thisdeeplearning.ck.page^
 ||thisip.com^
 ||thisislike-network.rpxnow.com^
@@ -34437,6 +34441,7 @@
 ||ticketmastergermany.sjv.io^
 ||tickettailor.firstpromoter.com^
 ||ticketweb.sjv.io^
+||ticmate.co.il^
 ||ticonmamad.libraries.co.il^
 ||tidal-cdn.s3.amazonaws.com^
 ||tidbit.co.in^
@@ -34537,6 +34542,7 @@
 ||tinyfast.com^
 ||tinyhood.sjv.io^
 ||tinyrick-staging.pixlee.com^
+||tiompanalley.com^
 ||tipico-tipico.instana.io^
 ||tipp24.sdc.slgnt.eu^
 ||tipp24.slgnt.eu.cdn.cloudflare.net^
@@ -34658,6 +34664,7 @@
 ||tmt4.adj.st^
 ||tmtsub.com^
 ||tmxtrk.com^
+||tn.vl.byptkhal.idy360.com^
 ||tn2e.adj.st^
 ||tn377.infusionsoft.com^
 ||tn4h.mjt.lu^
@@ -34748,10 +34755,12 @@
 ||top.nsleep.net^
 ||top.offerlabsnet.com^
 ||top.verre-progressif.info^
+||top25.ro^
 ||top26.net^
 ||topaccs.rentshop.org^
 ||topadvancedsearch.com^
 ||topbiz.mirtesen.ru^
+||topblogs.com.ph^
 ||topclick.emato.net^
 ||topdownleansystems.com^
 ||topdust-img.rbl.ms^
@@ -35337,6 +35346,7 @@
 ||track.zestmoney.in^
 ||track1.jijyun.cn^
 ||track1.pricespider.com^
+||track4.com^
 ||track4.pricespider.com^
 ||trackable.ai^
 ||trackableleadgeneration.com^
@@ -35657,6 +35667,7 @@
 ||tradepending.com^
 ||trader.garant.ru^
 ||trades.com^
+||tradesasa.com^
 ||tradeshift.mktoweb.com^
 ||tradesmart24.pl^
 ||tradetracker.com^
@@ -35666,6 +35677,7 @@
 ||tradfecharec.rebelmouse.com^
 ||tradingtrainer.infusionsoft.com^
 ||tradingworks.com^
+||traduction-en-ligne.com^
 ||traek.io^
 ||traf-zona.ru^
 ||traf24.ru^
@@ -35692,11 +35704,13 @@
 ||trafficads.s3-website-us-west-1.amazonaws.com^
 ||trafficadv.com^
 ||trafficbarads.com^
+||trafficbeamer.com^
 ||trafficbets.com^
 ||trafficbot.uk^
 ||trafficcake.com^
 ||trafficccraze.com^
 ||trafficcenter.com^
+||trafficcenter.de^
 ||trafficcontrolmarketing.com^
 ||trafficdownload.com^
 ||trafficguard.ai^
@@ -35707,6 +35721,8 @@
 ||trafficlayer.de^
 ||trafficleaders.nl^
 ||trafficmagnet.com^
+||trafficoasis.com^
+||trafficpace.com^
 ||trafficposse.com^
 ||trafficpump.com^
 ||trafficrush.com^
@@ -36006,6 +36022,7 @@
 ||truepushmail.com^
 ||truerating.co.il^
 ||trueratings.co.il^
+||trueshelterju.pro^
 ||truestory-dk.sjv.io^
 ||trulaske.qualtrics.com^
 ||trulitea.com^
@@ -36090,6 +36107,7 @@
 ||ts761hgd.com^
 ||ts87.mjt.lu^
 ||ts9q.mjt.lu^
+||tsgonline.com^
 ||tshi.net^
 ||tshop.r10s.jp^
 ||tshr20140816.loggly.com^
@@ -36232,6 +36250,7 @@
 ||tvppgroup.com^
 ||tvropes.org^
 ||tvshowapi.apk.v-mate.mobi^
+||tvsquad.com^
 ||tvtd.disapo.de^
 ||tvtd.douglas.at^
 ||tvtd.douglas.be^
@@ -36301,6 +36320,7 @@
 ||twinedigital.com^
 ||twinmountainoffroad.comcaliper-cbd.sjv.io^
 ||twinplan.de^
+||twinsrecreation.com^
 ||twip.ck.page^
 ||twistlock.instana.io^
 ||twisto.cz^
@@ -36511,11 +36531,13 @@
 ||ubxwydgkgrj.hd10.com^
 ||uc.cn^
 ||uc.srgd.ch^
+||uc123.com^
 ||uc956.infusionsoft.com^
 ||ucalgarypsych.co1.qualtrics.com^
 ||ucbedu.qualtrics.com^
 ||ucbpsych.qualtrics.com^
 ||ucc.wix.com^
+||ucchari.com^
 ||ucdavis.co1.qualtrics.com^
 ||ucdenver.qualtrics.com^
 ||uceprotect.ch^
