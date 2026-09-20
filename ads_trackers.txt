@@ -18884,6 +18884,7 @@
 ||poker88asia.com^
 ||poland-smtp-coi-g07-018.aweber.com^
 ||polar.gr.com^
+||polarborder.com^
 ||polaris-tagging-prod.azureedge.net^
 ||polarityio.loggly.com^
 ||poleznosti.mirtesen.ru^
@@ -19462,6 +19463,7 @@
 ||ppcindo.com^
 ||ppcpro.firstpromoter.com^
 ||ppctrck.com^
+||ppe-balistique.cwebh.org^
 ||pph5.mjt.lu^
 ||ppinstall.com^
 ||ppjol.net^
@@ -19710,6 +19712,7 @@
 ||pro.gazetapowiatowa.pl^
 ||pro.metalldetektoren.de^
 ||pro.vegan3000.info^
+||pro.webstat.pl^
 ||proadszone.com^
 ||proagrica.lookbookhq.com^
 ||proalliance.com^
@@ -19806,6 +19809,7 @@
 ||productive-blogging.ck.page^
 ||productlog.io^
 ||productmarketingalliance.firstpromoter.com^
+||products-and-services.com^
 ||products.api.impact.com^
 ||products.bobst.com^
 ||productsup.com^
@@ -19871,6 +19875,7 @@
 ||promo.selbstaendig20.12227.digistore24.com^
 ||promociones.agilperu.com^
 ||promodomegroup.com^
+||promolnk.com^
 ||promoly.firstpromoter.com^
 ||promoriva.com^
 ||promos.bwin.com^
@@ -19921,6 +19926,7 @@
 ||proto2ad.durasite.net^
 ||protocol-img.rbl.ms^
 ||protomiq.com^
+||protopline.com^
 ||protothema.gr.com^
 ||protraffic24.pl^
 ||protrainings.ck.page^
@@ -19941,6 +19947,7 @@
 ||proximity-one-static.wbx2.com^
 ||proximity.zendesk.com^
 ||proximitykit.radiusnetworks.com.herokudns.com^
+||proxionet.com^
 ||proxiy.com^
 ||proxsee.io^
 ||proxy-images.marchex.io^
@@ -19951,6 +19958,7 @@
 ||proxycheck.io^
 ||proxypage.msn.com^
 ||prplepleter.com^
+||prr.fdn.sbgwdn.idy360.com^
 ||prs3.midasplayer.com^
 ||prueba.unbounce.com^
 ||prxio.github.io^
@@ -20003,6 +20011,7 @@
 ||ptag.net^
 ||ptc.lookbookhq.com^
 ||ptc.malsup.com^
+||ptcasinoonline.com^
 ||ptcd.com^
 ||ptchits.com^
 ||ptconnect.singular.net^
@@ -20138,6 +20147,7 @@
 ||pulse-plain-test.picsart-8821.workers.dev^
 ||pulse-solution.com^
 ||pulse.cindyhsuzell.com^
+||pulse.iuhelath.org^
 ||pulsegrow.ck.page^
 ||pulsesecure1.mktoweb.com^
 ||pulseshift.com^
@@ -20152,6 +20162,7 @@
 ||puqwn.com^
 ||purch.com^
 ||purchase.sjv.io^
+||purchaseproof.com^
 ||purdue.ca1.qualtrics.com^
 ||purdue.qualtrics.com^
 ||pure-osaka.com^
@@ -20654,6 +20665,7 @@
 ||qsh4.mjt.lu^
 ||qsh9.mjt.lu^
 ||qshui.com^
+||qssa.co.uk^
 ||qsubmit.com^
 ||qsyb.adj.st^
 ||qsys.cloud.360safe.com^
@@ -20690,6 +20702,7 @@
 ||quadrality.live^
 ||quadrantppc.com^
 ||quadravision.co.in^
+||qualcomm.cn^
 ||qualcomm.mktoweb.com^
 ||qualgrow.com^
 ||quality-unearthed.sjv.io^
@@ -20710,6 +20723,7 @@
 ||quantdeck.com^
 ||quantilope.com^
 ||quantum-alignment-system.ck.page^
+||quantum.groupe.com^
 ||quarantine.accountkit.com^
 ||quarantine3.accountkit.com^
 ||quarantined.convertkit.com^
@@ -20737,6 +20751,7 @@
 ||questseek.com^
 ||quesukenpe.rebelmouse.com^
 ||quhm.mjt.lu^
+||quick-torrent.com^
 ||quickadsmedia.com^
 ||quickalert.org^
 ||quicken.sjv.io^
@@ -20754,6 +20769,7 @@
 ||quni0y50kgf5ym1j.co1.qualtrics.com^
 ||qunia29wzadv9nu7.co1.qualtrics.com^
 ||qunig8onh8075387.co1.qualtrics.com^
+||quotes.gb.net^
 ||quotes.ydigitalmedia.com^
 ||quotientcomm.com^
 ||quoting.supplyframe.com^
@@ -21547,6 +21563,7 @@
 ||r2beat.com^
 ||r2gdigital.com^
 ||r2integrated.mktoweb.com^
+||r2prod.com^
 ||r2pt.mjt.lu^
 ||r2te.adj.st^
 ||r2w3.adj.st^
@@ -21758,6 +21775,7 @@
 ||range86-129.cdnsoar.com^
 ||rangeramerican.massivehand.com^
 ||rangetrainerpro.firstpromoter.com^
+||ranking.com^
 ||ranking.rakuten.co.jp^
 ||rankiq.firstpromoter.com^
 ||rankpro.de^
