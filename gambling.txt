@@ -21830,3 +21830,8 @@
 ||mc-d7f7cc1f-1a7c-4fc5-b531-6087-cdn-endpoint.azureedge.net^
 ||mctrades.org^
 ||mcw85229381aff.com^
+||mgm1332.com^
+||mgm2373.com^
+||mgm2587.com^
+||mgmresorts.com^
+||microgaming.com^
