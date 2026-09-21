@@ -21835,3 +21835,4 @@
 ||mgm2587.com^
 ||mgmresorts.com^
 ||microgaming.com^
+||mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com^
