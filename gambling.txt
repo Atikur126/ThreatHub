@@ -6087,8 +6087,10 @@
 ||7beto.com^
 ||7bets-br.com^
 ||7bets-sweden.com^
+||7bets.bio^
 ||7bets.cam^
 ||7bets.io^
+||7bets.pro^
 ||7bets.xyz^
 ||7bets10.com^
 ||7betspin.com^
@@ -6122,6 +6124,7 @@
 ||7bitcanadacasino.com^
 ||7bitcasino-au.online^
 ||7bitcasino-au.win^
+||7bitcasino-aucasino.com^
 ||7bitcasino-bet.com^
 ||7bitcasino-canada.ca^
 ||7bitcasino-es.click^
@@ -6138,6 +6141,7 @@
 ||7bitcasino.click^
 ||7bitcasino.com.pl^
 ||7bitcasino.com^
+||7bitcasino.fyi^
 ||7bitcasino.life^
 ||7bitcasino.lol^
 ||7bitcasino.pro^
@@ -6151,6 +6155,7 @@
 ||7bitcasino88.com^
 ||7bitcasino89.com^
 ||7bitcasino9.com^
+||7bitcasinoalternative.top^
 ||7bitcasinoaus.org^
 ||7bitcasinoaustralia.info^
 ||7bitcasinobet.com^
@@ -6188,6 +6193,7 @@
 ||7casino.app^
 ||7casino.bet^
 ||7casino.io^
+||7casino.lol^
 ||7casinomegajuicyslots-game.app^
 ||7casinoonline.click^
 ||7casinoonline.com^
@@ -6218,6 +6224,7 @@
 ||7cs.casino^
 ||7cslotcasino.net^
 ||7cslots.com^
+||7cx.casino^
 ||7d3u.casino^
 ||7d5et0l.com^
 ||7d7.casino^
@@ -6225,11 +6232,13 @@
 ||7d777.casino^
 ||7dancapg.com^
 ||7daysperformance.co.uk^
+||7daystobalance.com^
 ||7dcasino.bet^
 ||7dcasino.biz^
 ||7dcasino.click^
 ||7dcasino.net^
 ||7dcasino.org^
+||7dcasino.pro^
 ||7dewicasino88.com^
 ||7dk.casino^
 ||7dw.casino^
@@ -6380,18 +6389,21 @@
 ||7jlcasino.ph^
 ||7jlgcashcasino.com^
 ||7jlslot.vip^
+||7jn.casino^
 ||7jogo55.com^
 ||7joker8.com^
 ||7joya.casino^
 ||7jq.casino^
 ||7ju.casino^
 ||7jx.casino^
+||7k-01.casino^
 ||7k-0100.casino^
 ||7k-128.casino^
 ||7k-129.casino^
 ||7k-133.casino^
 ||7k-138.casino^
 ||7k-143.casino^
+||7k-184.casino^
 ||7k-205.casino^
 ||7k-245.casino^
 ||7k-254.casino^
@@ -6409,8 +6421,10 @@
 ||7k-375.casino^
 ||7k-383.casino^
 ||7k-393.casino^
+||7k-413.casino^
 ||7k-415.casino^
 ||7k-462.casino^
+||7k-471.casino^
 ||7k-474.casino^
 ||7k-477.casino^
 ||7k-4845.casino^
@@ -6425,17 +6439,22 @@
 ||7k-587.casino^
 ||7k-606.casino^
 ||7k-615.casino^
+||7k-634.casino^
+||7k-636.casino^
 ||7k-651.casino^
 ||7k-661.casino^
 ||7k-663.casino^
+||7k-6842.casino^
 ||7k-698.casino^
 ||7k-699.casino^
 ||7k-718.casino^
 ||7k-720.casino^
+||7k-728.casino^
 ||7k-733.casino^
 ||7k-740.casino^
 ||7k-751.casino^
 ||7k-753.casino^
+||7k-756.casino^
 ||7k-773.casino^
 ||7k-775.casino^
 ||7k-77k.casino^
@@ -6450,6 +6469,7 @@
 ||7k-832.casino^
 ||7k-833.casino^
 ||7k-835.casino^
+||7k-843.casino^
 ||7k-845.casino^
 ||7k-857.casino^
 ||7k-875.casino^
@@ -6486,6 +6506,7 @@
 ||7k-casino-21qwz.sbs^
 ||7k-casino-23h1g.top^
 ||7k-casino-2625.fun^
+||7k-casino-2etg5.sbs^
 ||7k-casino-2g93i.sbs^
 ||7k-casino-2lgqb.sbs^
 ||7k-casino-2nejo.icu^
@@ -6505,6 +6526,7 @@
 ||7k-casino-5wjsm.cfd^
 ||7k-casino-5wsk5.cfd^
 ||7k-casino-6c2ju.icu^
+||7k-casino-6ej81.cfd^
 ||7k-casino-6udvs.cfd^
 ||7k-casino-6xa1b.icu^
 ||7k-casino-74nm3.cfd^
@@ -6525,6 +6547,7 @@
 ||7k-casino-a1a0k.cfd^
 ||7k-casino-akjr1.icu^
 ||7k-casino-ap6u3.cyou^
+||7k-casino-bazb9.icu^
 ||7k-casino-bh8zq.cyou^
 ||7k-casino-bhqjo.sbs^
 ||7k-casino-bja0c.sbs^
@@ -6548,9 +6571,11 @@
 ||7k-casino-fs2kx.top^
 ||7k-casino-g9utk.cyou^
 ||7k-casino-g9xce.cyou^
+||7k-casino-gho1s.xyz^
 ||7k-casino-gko4l.icu^
 ||7k-casino-go.pw^
 ||7k-casino-go0.ru^
+||7k-casino-gttaf.cyou^
 ||7k-casino-gvdxw.cyou^
 ||7k-casino-hbw21.cyou^
 ||7k-casino-hhsyo.icu^
@@ -6571,6 +6596,7 @@
 ||7k-casino-kygrq.xyz^
 ||7k-casino-l41b7.xyz^
 ||7k-casino-l9fx6.sbs^
+||7k-casino-lbhjv.sbs^
 ||7k-casino-ldheq.icu^
 ||7k-casino-lqfyw.cyou^
 ||7k-casino-lrt37.cyou^
@@ -6602,7 +6628,9 @@
 ||7k-casino-pro.pw^
 ||7k-casino-pt214.sbs^
 ||7k-casino-q4w5h.xyz^
+||7k-casino-qhuz3.top^
 ||7k-casino-qm296.top^
+||7k-casino-qo59k.xyz^
 ||7k-casino-qrhl8.icu^
 ||7k-casino-qwvwn.top^
 ||7k-casino-qy5xd.xyz^
@@ -6617,6 +6645,7 @@
 ||7k-casino-u0hvg.sbs^
 ||7k-casino-uaes3.xyz^
 ||7k-casino-upx91.cfd^
+||7k-casino-uqyxr.xyz^
 ||7k-casino-usshg.xyz^
 ||7k-casino-uv62m.top^
 ||7k-casino-uvgey.top^
@@ -6624,6 +6653,7 @@
 ||7k-casino-v33xd.icu^
 ||7k-casino-v9nzz.xyz^
 ||7k-casino-vcf6a.xyz^
+||7k-casino-vxz77.cfd^
 ||7k-casino-w03la.icu^
 ||7k-casino-w8j3i.top^
 ||7k-casino-win.top^
@@ -6634,6 +6664,7 @@
 ||7k-casino-y6nca.top^
 ||7k-casino-ybr2m.icu^
 ||7k-casino-yirkf.cfd^
+||7k-casino-yz5f5.sbs^
 ||7k-casino-z334m.xyz^
 ||7k-casino-z5dqb.top^
 ||7k-casino-z64gs.cfd^
@@ -6695,6 +6726,7 @@
 ||7k-casino29.xyz^
 ||7k-casino291k.lol^
 ||7k-casino3.com^
+||7k-casino329k.lol^
 ||7k-casino333k.buzz^
 ||7k-casino3477.cyou^
 ||7k-casino371k.lol^
@@ -6708,6 +6740,7 @@
 ||7k-casino426.cfd^
 ||7k-casino4349.casino^
 ||7k-casino44.xyz^
+||7k-casino445.buzz^
 ||7k-casino449.cfd^
 ||7k-casino47.xyz^
 ||7k-casino478.xyz^
@@ -6744,12 +6777,15 @@
 ||7k-casino808.xyz^
 ||7k-casino82.xyz^
 ||7k-casino83.xyz^
+||7k-casino832k.buzz^
+||7k-casino832k.lol^
 ||7k-casino834k.buzz^
 ||7k-casino837k.lol^
 ||7k-casino83k.lol^
 ||7k-casino84.xyz^
 ||7k-casino85.xyz^
 ||7k-casino861k.buzz^
+||7k-casino872k.buzz^
 ||7k-casino876k.buzz^
 ||7k-casino878.buzz^
 ||7k-casino884.buzz^
@@ -6798,11 +6834,13 @@
 ||7k0455.casino^
 ||7k0456.casino^
 ||7k0519.casino^
+||7k058.casino^
 ||7k0589.casino^
 ||7k059e.casino^
 ||7k0606.casino^
 ||7k0609.casino^
 ||7k0629.casino^
+||7k064.casino^
 ||7k0690.casino^
 ||7k07131.casino^
 ||7k07132.casino^
@@ -6857,6 +6895,7 @@
 ||7k129.casino^
 ||7k1302.casino^
 ||7k1307.casino^
+||7k1308.casino^
 ||7k1327.casino^
 ||7k1368.casino^
 ||7k137.casino^
@@ -6913,6 +6952,7 @@
 ||7k1889.casino^
 ||7k1897.casino^
 ||7k1914.casino^
+||7k1923.casino^
 ||7k1926.casino^
 ||7k1931.casino^
 ||7k1938.casino^
@@ -6979,6 +7019,7 @@
 ||7k2590.casino^
 ||7k2591.casino^
 ||7k25c.casino^
+||7k2602.casino^
 ||7k2603.casino^
 ||7k2604.casino^
 ||7k2605.casino^
@@ -7001,6 +7042,7 @@
 ||7k275x.casino^
 ||7k2764.casino^
 ||7k2768.casino^
+||7k2785.casino^
 ||7k2790.casino^
 ||7k2791.casino^
 ||7k2794y.casino^
@@ -7025,6 +7067,7 @@
 ||7k3051.casino^
 ||7k3057.casino^
 ||7k3094.casino^
+||7k3096i.casino^
 ||7k309z.casino^
 ||7k314q.casino^
 ||7k318d.casino^
@@ -7055,6 +7098,7 @@
 ||7k3419.casino^
 ||7k347k.casino^
 ||7k3489.casino^
+||7k349.casino^
 ||7k3492.casino^
 ||7k3528.casino^
 ||7k353o.casino^
@@ -7070,6 +7114,7 @@
 ||7k3639.casino^
 ||7k3649.casino^
 ||7k367m.casino^
+||7k3684.casino^
 ||7k36p8.casino^
 ||7k374p.casino^
 ||7k3757.casino^
@@ -7114,6 +7159,7 @@
 ||7k4323.casino^
 ||7k4334.casino^
 ||7k4385.casino^
+||7k4413.casino^
 ||7k4418.casino^
 ||7k4471.casino^
 ||7k4579.casino^
@@ -7174,6 +7220,10 @@
 ||7k5262.casino^
 ||7k5263.casino^
 ||7k5264.casino^
+||7k5276.casino^
+||7k5277.casino^
+||7k5278.casino^
+||7k5279.casino^
 ||7k5280.casino^
 ||7k5281.casino^
 ||7k5282.casino^
@@ -7188,6 +7238,7 @@
 ||7k5291.casino^
 ||7k5292.casino^
 ||7k5297.casino^
+||7k5299.casino^
 ||7k529r.casino^
 ||7k5357.casino^
 ||7k5390.casino^
@@ -7458,6 +7509,7 @@
 ||7k907m.casino^
 ||7k908.casino^
 ||7k912.casino^
+||7k9124.casino^
 ||7k913k.casino^
 ||7k9145.casino^
 ||7k917t.casino^
@@ -7566,6 +7618,7 @@
 ||7kcasino3110.buzz^
 ||7kcasino34.cfd^
 ||7kcasino399.casino^
+||7kcasino399k.sbs^
 ||7kcasino4.click^
 ||7kcasino411.buzz^
 ||7kcasino4222.cfd^
@@ -7578,6 +7631,7 @@
 ||7kcasino5.click^
 ||7kcasino500.buzz^
 ||7kcasino515.com^
+||7kcasino537.buzz^
 ||7kcasino55.buzz^
 ||7kcasino5728.casino^
 ||7kcasino6.top^
@@ -7616,6 +7670,7 @@
 ||7kcasino89.buzz^
 ||7kcasino897t.buzz^
 ||7kcasino8ji.bond^
+||7kcasino90.buzz^
 ||7kcasino91.buzz^
 ||7kcasino92.buzz^
 ||7kcasino932.top^
@@ -7708,6 +7763,7 @@
 ||7luckcasinos.xyz^
 ||7m.casino^
 ||7m.hk^
+||7m1.casino^
 ||7m7.com^
 ||7m7app.com^
 ||7m7j.com^
@@ -7717,6 +7773,7 @@
 ||7malinacasino.com^
 ||7mcasino.org^
 ||7mcn.casino^
+||7megaslots.com^
 ||7melons-casino-schweiz.com^
 ||7melons-casino.bet^
 ||7melons-casinoo.ch^
@@ -7800,6 +7857,7 @@
 ||7qr.casino^
 ||7qu.casino^
 ||7qy.casino^
+||7r5u.casino^
 ||7r7link.com^
 ||7r9yyu.com^
 ||7rainhaspg.com^
@@ -7810,10 +7868,13 @@
 ||7red.com^
 ||7redcasino.co.no^
 ||7redvip.com^
+||7reels-casino-kuwait.com^
 ||7reels-casino.biz^
+||7reels-casino.co.za^
 ||7reels-casino.net^
 ||7reels.com^
 ||7reelscasino-au.com^
+||7reelscasino-ca.com^
 ||7reelscasino.co^
 ||7reelscasino.info^
 ||7reelscasino.ink^
