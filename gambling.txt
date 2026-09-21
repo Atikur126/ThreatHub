@@ -21836,3 +21836,8 @@
 ||mgmresorts.com^
 ||microgaming.com^
 ||mnlottery-craft-assets-prod.s3.us-gov-west-1.amazonaws.com^
+||mohawkcasino.com^
+||mohegansun.com^
+||mojo.casino^
+||morongocasinoresort.com^
+||mostplayipl.club^
