@@ -1076,8 +1076,12 @@
 ||100d-4992-5737-64d8.reporo.net^
 ||100thmonkeymushrooms.com^
 ||102-rwr-052.mktoweb.com^
+||10370.xmlfeed-usa.adtelligent.com^
+||1043278761rtb.adx1.com^
 ||104ez.info^
 ||105.7thefan.com^
+||1069ef8f941d860c4075cb6c89854968bc748f7b.adx1.com^
+||107-snz-327.mktoweb.com^
 ||11.123unlock.com^
 ||11.177piczz.info^
 ||11.98.7thefan.com^
@@ -1186,6 +1190,7 @@
 ||11.kbuzz.info^
 ||11.kikou.info^
 ||11.klkviral.org^
+||11.l.adsco.re^
 ||11.leaningapps.org^
 ||11.leawesome.com^
 ||11.liechess.org^
@@ -1283,6 +1288,13 @@
 ||11.zheye.org^
 ||11.zoter.org^
 ||11.zotera.org^
+||11016.adx1.com^
+||111-xmi-378.mktoweb.com^
+||1111.xml.adx1.com^
+||1111.xmlfeed.adtelligent.com^
+||111111.ortb.adtelligent.com^
+||111111.xmlfeed.adtelligent.com^
+||11114.xmlfeed-usa.adtelligent.com^
 ||11teamsports.com^
 ||12.177piczz.info^
 ||12.abbottandcostello.info^
