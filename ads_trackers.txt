@@ -531,6 +531,7 @@
 ||1.house-of-h.com^
 ||1.houstonmetro.org^
 ||1.houstonoilers.com^
+||1.hpyrdr.com^
 ||1.hqdiesel.com^
 ||1.hsnbank.com^
 ||1.hu.woldpress.org^
@@ -1016,6 +1017,7 @@
 ||1.wwwscscourt.org^
 ||1.wwwwaptrik.com^
 ||1.xiaohuangren.info^
+||1.xmlfeed.adtelligent.com^
 ||1.xn--80aa0aehiwrr.com^
 ||1.xn--c1aafnv4byb.com^
 ||1.xn--hava-85a.net^
@@ -1054,6 +1056,7 @@
 ||1.zotera.org^
 ||1.zvarych.info^
 ||10.123unlock.com^
+||10.126.85.76cdn.adx1.com^
 ||10.aaronlewis.com^
 ||10.arshcenter.org^
 ||10.bangbrps.com^
@@ -1067,6 +1070,12 @@
 ||10.todaysfurniture.com^
 ||10.translategoogle.com^
 ||10.watrick.com^
+||1001446-vm-admin.dianomi.com^
+||1001449-vm-dev.dianomi.com^
+||100championsleagueisil.adx1.com^
+||100d-4992-5737-64d8.reporo.net^
+||100thmonkeymushrooms.com^
+||102-rwr-052.mktoweb.com^
 ||104ez.info^
 ||105.7thefan.com^
 ||11.123unlock.com^
