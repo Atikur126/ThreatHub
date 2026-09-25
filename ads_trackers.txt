@@ -629,3 +629,4 @@
 ||pivot-test.druid.services.adx1.com^
 ||pivot.druid.services.adx1.com^
 ||piwik.adspaces.ero-advertising.com^
+||piwik.ero-advertising.com^
