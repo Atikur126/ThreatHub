@@ -4868,21 +4868,25 @@
 ||points-trovel-air-miles.sjv.io^
 ||points-truvel-air-miles.sjv.io^
 ||points-trvael-air-miles.sjv.io^
+||pointshop.dk^
 ||poisondyges.rebelmouse.com^
 ||poitns-travel-air-miles.sjv.io^
 ||pokdfopk.cmail20.com^
 ||pokemoncommunity.com^
 ||pokemonomstop.go.pl^
+||poker88asia.com^
 ||pokeraj.go.pl^
 ||pokernachhilfe.netdear.com^
 ||poland-smtp-coi-g07-018.aweber.com^
 ||polar.gr.com^
 ||polarbearcubs.clickfunnels.com^
+||polarborder.com^
 ||polarbyte.com^
 ||polaris-tagging-prod.azureedge.net^
 ||polarityio.loggly.com^
 ||poleznosti.mirtesen.ru^
 ||policebank.mktoweb.com^
+||policecanada.org^
 ||policecanada.policecanada.org^
 ||policies.warnerbros.com^
 ||policy.clickfunnels.com^
@@ -5128,12 +5132,15 @@
 ||porn-gram.com^
 ||porn-hitz.com^
 ||porn-upload.com^
+||porn.comix.info^
 ||porn.photosex.info^
 ||porn5.com^
 ||porn88.net^
 ||pornbeam.com^
 ||porner.at^
+||pornhed.com^
 ||pornin.ru^
+||pornland.mobi^
 ||pornlist.mobi^
 ||porno.comix.info^
 ||porno.gr.com^
@@ -5521,6 +5528,7 @@
 ||postmates-by-uber-eats.sjv.io^
 ||postmedia.clickfunnels.com^
 ||postroimdom.mirtesen.ru^
+||postsavings.com^
 ||postscript.io^
 ||postsign.docusign.com^
 ||postup.com^
@@ -5800,6 +5808,7 @@
 ||priceactionpros.clickfunnels.com^
 ||pricebat.rpxnow.com^
 ||priceguide.it.com^
+||priceli.com^
 ||priceline.co1.qualtrics.com^
 ||priceline.sjv.io^
 ||pricespider.com^
@@ -5819,6 +5828,7 @@
 ||primedllc.mktoweb.com^
 ||primefuse.com^
 ||primegreens.clickfunnels.com^
+||primejailbait.org^
 ||primeleech.com^
 ||primemedia.pk^
 ||primeperformancepropertiesseller4.carrot.com^
@@ -5945,6 +5955,7 @@
 ||pro.i-doctor.co.kr^
 ||pro.metalldetektoren.de^
 ||pro.vegan3000.info^
+||pro.webstat.pl^
 ||pro2.adx1.com^
 ||pro6e.com^
 ||proactivplus.inq.com^
@@ -6079,6 +6090,7 @@
 ||profi-link.org^
 ||profi.de^
 ||profi.firstpromoter.com^
+||profilblech.net^
 ||profile-matching.com^
 ||profile.datadoghq.com^
 ||profilebud.firstpromoter.com^
@@ -6144,6 +6156,7 @@
 ||prolificentrepreneurs.clickfunnels.com^
 ||prolonfmd.sjv.io^
 ||promediaconverter.com^
+||promedservices.com^
 ||prometheus-3.pages03.net^
 ||prometheus-site-azp.slgnt.eu^
 ||prometheus.datadome.co^
@@ -6166,8 +6179,10 @@
 ||promo.vador.com^
 ||promo770.com^
 ||promoads.de^
+||promobay.org^
 ||promodomegroup.com^
 ||promolabs.clickfunnels.com^
+||promolnk.com^
 ||promoly.firstpromoter.com^
 ||promoriva.com^
 ||promos.bwin.com^
@@ -6200,6 +6215,7 @@
 ||propel.infusionsoft.com^
 ||propellerads.net^
 ||propellerclick.com^
+||properrayam.pro^
 ||property.infusionsoft.com^
 ||property.sojern.com^
 ||propertyagentscircle.clickfunnels.com^
@@ -6284,6 +6300,7 @@
 ||proximity-one-static.wbx2.com^
 ||proximity.zendesk.com^
 ||proximitykit.radiusnetworks.com.herokudns.com^
+||proxionet.com^
 ||proxiy.com^
 ||proxnet.go.pl^
 ||proxsee.io^
@@ -6306,6 +6323,7 @@
 ||proxypage.msn.com^
 ||prplepleter.com^
 ||prproductions.clickfunnels.com^
+||prr.fdn.sbgwdn.idy360.com^
 ||prs3.midasplayer.com^
 ||prtnr.impact.com^
 ||prueba.unbounce.com^
@@ -6583,6 +6601,7 @@
 ||pulse.boa.exacttarget.com^
 ||pulse.cindyhsuzell.com^
 ||pulse.exacttarget.com^
+||pulse.iuhelath.org^
 ||pulse.neurostreamlink10.cfd^
 ||pulse.tdws.dev^
 ||pulseadnetwork.com^
@@ -6611,6 +6630,7 @@
 ||purchase.adx1.com^
 ||purchase.sjv.io^
 ||purchaseog.clickfunnels.com^
+||purchaseproof.com^
 ||purdue.ca1.qualtrics.com^
 ||purdue.qualtrics.com^
 ||pure-osaka.com^
@@ -6833,6 +6853,7 @@
 ||pyramidphoenixqa.midasplayer.com^
 ||pyrite-lb9.bravenet.com^
 ||pytho.org^
+||pythonpays.com^
 ||pyzct.voluumtrk.com^
 ||pyzou.voluumtrk.com^
 ||pz138.infusionsoft.com^
@@ -7342,6 +7363,7 @@
 ||quadrality.live^
 ||quadrantppc.com^
 ||quadrinhoseroticos.net^
+||qualcomm.cn^
 ||qualcomm.mktoweb.com^
 ||qualgrow.com^
 ||qualical.clickfunnels.com^
@@ -7366,6 +7388,7 @@
 ||quantify.kpnnet.org^
 ||quantilope.com^
 ||quantum-alignment-system.ck.page^
+||quantum.groupe.com^
 ||quantummarketingsystem.clickfunnels.com^
 ||quarantine.accountkit.com^
 ||quarantine3.accountkit.com^
@@ -7377,6 +7400,7 @@
 ||qucuq.babymassage-apeldoorn.info^
 ||qudll.voluumtrk.com^
 ||que-significa-mi-nombre.info^
+||queensbakerycafe.com^
 ||queensforadream.clickfunnels.com^
 ||queensinbusinessclub.clickfunnels.com^
 ||queensu.qualtrics.com^
@@ -7400,6 +7424,7 @@
 ||queue.adx1.com^
 ||queue.api.adx1.com^
 ||quhm.mjt.lu^
+||quick-torrent.com^
 ||quickadsmedia.com^
 ||quickadsmedia.gotrackier.com^
 ||quickalert.org^
@@ -7437,12 +7462,14 @@
 ||quora-prod-log-vpc-1111597382.us-east-1.elb.amazonaws.com^
 ||quote.allstateforyou.com^
 ||quote.pages03.net^
+||quotes.gb.net^
 ||quotes.ydigitalmedia.com^
 ||quotientcomm.com^
 ||quoting.supplyframe.com^
 ||qup.cloud.360safe.com^
 ||qurl.cloud.360safe.com^
 ||qurl.cn.cloud.360safe.com^
+||quroa.com^
 ||qustodio.sjv.io^
 ||qv186.infusionsoft.com^
 ||qv257.infusionsoft.com^
@@ -8515,6 +8542,7 @@
 ||randomadsrv.com^
 ||randomhours.rpxnow.com^
 ||randomhouse.like2buy.curalate.com^
+||randoms.org^
 ||randy175.clickfunnels.com^
 ||randybastbast.clickfunnels.com^
 ||randychambliss.clickfunnels.com^
@@ -8526,6 +8554,7 @@
 ||rangetrainerpro.firstpromoter.com^
 ||rankfoundry.com^
 ||ranking-toolz.de^
+||ranking.com^
 ||ranking.rakuten.co.jp^
 ||rankinglargo.clickfunnels.com^
 ||rankingpartner.com^
