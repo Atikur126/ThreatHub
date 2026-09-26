@@ -10213,6 +10213,7 @@
 ||reachlocal.localiq.com^
 ||reachoutupfluence.com^
 ||reachspaces.adx1.com^
+||reachtaxi.com^
 ||reachupfluence.com^
 ||reachyourdreamlife.clickfunnels.com^
 ||react-error-boundary.netlify.app^
@@ -10235,11 +10236,13 @@
 ||readylance.clickfunnels.com^
 ||readysetglow.com^
 ||readytoshare.org^
+||readyviews.com^
 ||readywind.rtb.adx1.com^
 ||reaim.me^
 ||real-buy.rentshop.org^
 ||real-housemoms-llc.ck.page^
 ||real-marketing.clickfunnels.com^
+||real-marketing.com^
 ||real-time-analytics.com^
 ||real-wife-lessons.ck.page^
 ||real.qualtrics.com^
@@ -10247,6 +10250,7 @@
 ||realanalytics.org^
 ||realcastmedia.com^
 ||realestate.adx1.com^
+||realestate.co.jp^
 ||realestate.coscousa.com^
 ||realestate.grupoesmeralda.com^
 ||realestate.piece.info^
@@ -10283,6 +10287,7 @@
 ||rebeccagoff2.clickfunnels.com^
 ||rebeccamitchell5454.clickfunnels.com^
 ||rebekah-joan.ck.page^
+||rebelmouse.com^
 ||rebelsport.sjv.io^
 ||rebelsystems.clickfunnels.com^
 ||rebon.org^
@@ -10494,6 +10499,7 @@
 ||refs.rejoiner.com^
 ||reg.360safe.com^
 ||reg.news.stitcher.com^
+||reg.ru^
 ||regalia.m.herffjones.com^
 ||regartoptique1458.analytics-ev.fr^
 ||regattadebenhams.inteligentreturns.net^
@@ -10584,6 +10590,7 @@
 ||relationshipsinaction.ck.page^
 ||relativity.mktoweb.com^
 ||relaunchapp.com^
+||relaxingcafe.com^
 ||relaxingvideos.clickfunnels.com^
 ||relaxthepain.com^
 ||relay-3.cmaxsrv.com^
@@ -11251,6 +11258,7 @@
 ||reviveadserver.com^
 ||reviveadserverrestapi.com^
 ||reviveadvegan.linakis.com^
+||revivemore.com^
 ||revjet.com^
 ||revlinedigital.clickfunnels.com^
 ||revmetrix.com^
@@ -11288,6 +11296,7 @@
 ||rfn.clickfunnels.com^
 ||rfn2.adj.st^
 ||rfoxmedia.com^
+||rfsafe.com^
 ||rfse.adj.st^
 ||rfstat.digicon.cz^
 ||rfxcel.com^
@@ -11412,6 +11421,7 @@
 ||rickylwh-app.clickfunnels.com^
 ||rickytestapp.rpxnow.com^
 ||ricoh.qualtrics.com^
+||ricontools.com^
 ||ricor.ru^
 ||ricos.clickfunnels.com^
 ||ridble.clickfunnels.com^
@@ -11639,6 +11649,7 @@
 ||rnlj5zxzlupgaj1.www.securem.fr.adx1.com^
 ||rnmz.mjt.lu^
 ||rnnatp1111.clickfunnels.com^
+||rnodernssolution.com^
 ||rnosrati.com^
 ||rnox.zeppelin.services.adx1.com^
 ||rnq6.mjt.lu^
@@ -11735,6 +11746,7 @@
 ||rocket-analytics.nothing.ch^
 ||rocket.clickfunnels.com^
 ||rocketads.net^
+||rocketadv.com^
 ||rocketai.aweber.com^
 ||rocketai.org^
 ||rocketanalytics.com^
@@ -11799,6 +11811,7 @@
 ||rokeyabegum5714256a3c.clickfunnels.com^
 ||roktb.adx1.com^
 ||rol.co.uk^
+||rol.ru^
 ||rolesadmin.aweber.com^
 ||roletaryk.info^
 ||rolex.gr.com^
@@ -11847,6 +11860,7 @@
 ||ronpagliarulo.clickfunnels.com^
 ||roobetaffiliates.com^
 ||roobuexs.clickfunnels.com^
+||roofcoins.com^
 ||roofing-superstore.sjv.io^
 ||roofsnap.mktoweb.com^
 ||roofstock.sjv.io^
@@ -12177,6 +12191,7 @@
 ||rtb-va.provenpixel.com^
 ||rtb.adtelligent.com^
 ||rtb.adx1.com^
+||rtb.adx1.comrtb.adx1.com^
 ||rtb.bingg.ca^
 ||rtb.discountbro.com^
 ||rtb.ero-advertising.com^
@@ -12314,6 +12329,8 @@
 ||runetki.joyreactor.ru^
 ||runm.mjt.lu^
 ||runnerclick.ck.page^
+||runnergamesch.com^
+||runnergameshk.com^
 ||runners-cdn.rebelmouse.com^
 ||runpanther.io^
 ||runsignup.mktoweb.com^
@@ -12965,6 +12982,8 @@
 ||s4.socialannex.com^
 ||s4.thelotter.com^
 ||s4.turninc.com^
+||s400708029.siteweb-initial.fr^
+||s401288291.siteweb-initial.fr^
 ||s418514676.m.en25.com^
 ||s41eu.socialannex.com^
 ||s42.vshare.io^
@@ -13145,6 +13164,7 @@
 ||sailpoint.lookbookhq.com^
 ||sailthru.com^
 ||saime.org^
+||saintmc.com^
 ||saistocexnes1983.clickfunnels.com^
 ||sajamforum.go.pl^
 ||sajari.com^
@@ -13378,6 +13398,7 @@
 ||samsonsshoppe-gmail-com.ck.page^
 ||samsung.ydigitalmedia.com^
 ||samsungelectronics.com^
+||samsungotn.net^
 ||samsungrm.net^
 ||samsungsmartphones.com^
 ||samsungus.kampyle.com^
@@ -13521,6 +13542,7 @@
 ||saur-serviceclient.smc.slgnt.eu^
 ||saurayal.clickfunnels.com^
 ||sauron.seedrs.com^
+||sauteenacoochee.com^
 ||savage-x-fenty-affiliate.sjv.io^
 ||savageaffiltae.clickfunnels.com^
 ||savagexfentyinfluencer.sjv.io^
@@ -13583,6 +13605,7 @@
 ||sc.ca.us.cddb.com^
 ||sc.clickfunnels.com^
 ||sc.mgid.com^
+||sc.pages06.net^
 ||sc.salesrobo.com^
 ||sc.southpark.de^
 ||sc.standard.co.uk^
@@ -13668,6 +13691,7 @@
 ||schrade.sjv.io^
 ||schranzmadeleine87.clickfunnels.com^
 ||schrodinger.mktoweb.com^
+||schuh-zentgraf.de^
 ||schule.bravenet.com^
 ||schulich.co1.qualtrics.com^
 ||schumanndds.clickfunnels.com^
@@ -14074,12 +14098,14 @@
 ||search123.uk.com^
 ||searchaddres.com^
 ||searchadvisor.channeladvisor.com^
+||searchcelibrityhd.com^
 ||searchciomidmarket.com^
 ||searchcloudstorage.com^
 ||searchdimension.com^
 ||searchesnews.com^
 ||searchesshop.com^
 ||searchexclus.com^
+||searchfusion.com^
 ||searchgage.com^
 ||searchingnews.com^
 ||searchingparty.com^
