@@ -27874,6 +27874,7 @@
 ||tenable.mktoweb.com^
 ||tenba.sjv.io^
 ||tend.sjv.io^
+||tendance.info^
 ||tender.cmaxsrv.com^
 ||tenderlypetalandpollen.com^
 ||tengfeijinshu.com.db-ip.com^
@@ -27926,6 +27927,8 @@
 ||ternos.org^
 ||teroklof.com^
 ||terra.hcworld.com^
+||terraads.net^
+||terrabio.net^
 ||terracecrawford.clickfunnels.com^
 ||terradatum.com^
 ||terraformer.dev.pardot.com^
@@ -28179,6 +28182,7 @@
 ||tfp.info^
 ||tfulcher.clickfunnels.com^
 ||tfwpittsburgh.clickfunnels.com^
+||tfx.zbd.hjbckh70.idy360.com^
 ||tg.adx1.com^
 ||tg259.infusionsoft.com^
 ||tg974.infusionsoft.com^
@@ -28402,6 +28406,7 @@
 ||thefuturegen.clickfunnels.com^
 ||thegermanemedia.com^
 ||thegiftseason.clickfunnels.com^
+||thegioibaove.com^
 ||thegldshop.sjv.io^
 ||thegleaner.localiq.com^
 ||thegoaldiggergirl.clickfunnels.com^
@@ -28443,6 +28448,7 @@
 ||theknot.sjv.io^
 ||thelabsports.clickfunnels.com^
 ||theladders2.mktoweb.com^
+||thelaferianews.com^
 ||thelandingfactory.clickfunnels.com^
 ||thelastamericanstand.com^
 ||theleadfarm.clickfunnels.com^
@@ -28466,6 +28472,7 @@
 ||themeparkhipster.ck.page^
 ||themes.clickfunnels.com^
 ||themes.rbl.ms^
+||themesets.com^
 ||themiamiheat.like2buy.curalate.com^
 ||themillionairesmatrix-app.clickfunnels.com^
 ||themillionairesmatrix.clickfunnels.com^
@@ -28567,6 +28574,7 @@
 ||thespectrum.localiq.com^
 ||thesprintbook.ck.page^
 ||thestarpress.localiq.com^
+||thestartmagazine.com^
 ||thestopperbuddy.clickfunnels.com^
 ||thestorethatpays.clickfunnels.com^
 ||thestrattonsalesagency.clickfunnels.com^
@@ -28583,6 +28591,7 @@
 ||thetolsoninstitute.clickfunnels.com^
 ||thetonybachmangroup.clickfunnels.com^
 ||thetoolnut.sjv.io^
+||thetop10.com^
 ||thetopagentteam.clickfunnels.com^
 ||thetopman.org^
 ||thetot.sjv.io^
@@ -28644,6 +28653,7 @@
 ||thirdwx.qlogo.cn^
 ||thirun.rpxnow.com^
 ||this-old-tooth.ck.page^
+||thisbeautifulbreath.co.uk^
 ||thisdeeplearning.ck.page^
 ||thisip.com^
 ||thisisdax.com^
@@ -28815,6 +28825,7 @@
 ||ticduperdai.rebelmouse.com^
 ||ticker.adx1.com^
 ||ticker.api.prd.innopage.com^
+||tickerland.com^
 ||ticket.exactag.com^
 ||ticketlinkltd.clickfunnels.com^
 ||ticketmaster-finland.sjv.io^
@@ -28968,6 +28979,7 @@
 ||tingezinta.rebelmouse.com^
 ||tingmeieas.com.db-ip.com^
 ||tings.sjv.io^
+||tinka.ru^
 ||tinkoff.mirtesen.ru^
 ||tinmanlee.clickfunnels.com^
 ||tinofernandezcoaching.clickfunnels.com^
@@ -28980,6 +28992,7 @@
 ||tinyfast.com^
 ||tinyhood.sjv.io^
 ||tinyrick-staging.pixlee.com^
+||tiompanalley.com^
 ||tipico-tipico.instana.io^
 ||tipp24.sdc.slgnt.eu^
 ||tipp24.slgnt.eu.cdn.cloudflare.net^
@@ -29162,6 +29175,7 @@
 ||tmt4.adj.st^
 ||tmtsub.com^
 ||tmxtrk.com^
+||tn.vl.byptkhal.idy360.com^
 ||tn2e.adj.st^
 ||tn377.infusionsoft.com^
 ||tn4h.mjt.lu^
@@ -30114,6 +30128,7 @@
 ||track2.me^
 ||track2.pricespider.com^
 ||track3.pricespider.com^
+||track4.com^
 ||track4.pricespider.com^
 ||trackable.ai^
 ||trackableleadgeneration.com^
@@ -30237,6 +30252,7 @@
 ||trackersuite.pages03.net^
 ||trackertest.org^
 ||trackerv2.picapp.com^
+||trackhost.com^
 ||trackhs.com^
 ||trackier.net^
 ||trackier1.exnessaffiliates.com^
@@ -30375,6 +30391,7 @@
 ||tracking.hiperbet.br.com^
 ||tracking.hubergroup.com^
 ||tracking.hurlmedia.design^
+||tracking.hvd-bb.de^
 ||tracking.icf-centrum.de^
 ||tracking.icotrack.com^
 ||tracking.icubeswire.co^
@@ -30573,6 +30590,7 @@
 ||trader.garant.ru^
 ||tradersagency.clickfunnels.com^
 ||trades.com^
+||tradesasa.com^
 ||tradeshift.mktoweb.com^
 ||tradesmart24.pl^
 ||tradetracker.com^
@@ -30630,11 +30648,13 @@
 ||trafficadv.com^
 ||trafficandconversion247.clickfunnels.com^
 ||trafficbarads.com^
+||trafficbeamer.nl^
 ||trafficbets.com^
 ||trafficbot.uk^
 ||trafficbroker.com^
 ||trafficcake.com^
 ||trafficccraze.com^
+||trafficcenter.de^
 ||trafficcertify.com^
 ||trafficchampions.clickfunnels.com^
 ||trafficdownload.com^
@@ -30647,6 +30667,8 @@
 ||trafficmagnet.com^
 ||trafficmanagers.nl^
 ||trafficmasterz.net^
+||trafficmonster.com^
+||trafficoasis.com^
 ||trafficoza.com^
 ||trafficposse.com^
 ||trafficpump.com^
@@ -31052,6 +31074,7 @@
 ||truerating.co.il^
 ||trueratings.co.il^
 ||truesearchengine.com^
+||trueshelterju.pro^
 ||truestory-dk.sjv.io^
 ||trulaske.qualtrics.com^
 ||trulitea.com^
@@ -31327,6 +31350,7 @@
 ||turw.mjt.lu^
 ||tuscaloo.sanews.com^
 ||tuscanalesdetv.net^
+||tuscanypointevillas.com^
 ||tuscl.org^
 ||tushy.info^
 ||tushyraw.net^
@@ -31383,6 +31407,7 @@
 ||tvr7exjw8yz9m4.clickfunnels.com^
 ||tvropes.org^
 ||tvshowapi.apk.v-mate.mobi^
+||tvsquad.com^
 ||tvtd.disapo.de^
 ||tvtd.douglas.at^
 ||tvtd.douglas.be^
@@ -31758,6 +31783,7 @@
 ||ubxwydgkgrj.hd10.com^
 ||uc.cn^
 ||uc.srgd.ch^
+||uc123.com^
 ||uc6.ucweb.com^
 ||uc956.infusionsoft.com^
 ||ucalgarypsych.co1.qualtrics.com^
