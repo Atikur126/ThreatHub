@@ -32475,6 +32475,7 @@
 ||unatech.org^
 ||unauthorized.ero-advertising.com^
 ||unbeatablemind.clickfunnels.com^
+||unbounce.com^
 ||unc.az1.qualtrics.com^
 ||uncanny.marvelkids.com^
 ||uncg.qualtrics.com^
@@ -32942,6 +32943,7 @@
 ||us-west-2.target.aws.amazon.com^
 ||us.adx1.com^
 ||us.bestnetzero.com^
+||us.cdn.adx1.com^
 ||us.co1.qualtrics.com^
 ||us.coscousa.com^
 ||us.foodski.com^
@@ -33118,6 +33120,7 @@
 ||usfhealth.qualtrics.com^
 ||usforreal.clickfunnels.com^
 ||usgateway.clickfunnels.com^
+||ushareit.com^
 ||ushealthconnect.mktoweb.com^
 ||ushipinc.mktoweb.com^
 ||ushomevaultrenttoown.carrot.com^
@@ -33168,6 +33171,10 @@
 ||uthtmc.az1.qualtrics.com^
 ||utilities-plausible.g5edov.easypanel.host^
 ||utils.fixedopsmarketing.com^
+||utsglobal.org^
+||uur.at^
+||uvrk0.voluumtrk.com^
+||v-tedm05.adx1.com^
 ||v622.adj.st^
 ||v67j.mjt.lu^
 ||v67u.mjt.lu^
@@ -33388,6 +33395,7 @@
 ||vb5.adx1.com^
 ||vb62nf3.clickfunnels.com^
 ||vba-adk.com^
+||vbf.lrh.blrylkh73.idy360.com^
 ||vbgbusiness1.mktoweb.com^
 ||vbgpublicsector.mktoweb.com^
 ||vbhawp5z.micpn.com^
@@ -33747,6 +33755,7 @@
 ||videoking.info^
 ||videomarketing.infusionsoft.com^
 ||videometrics.ted.com^
+||videonhadat.com^
 ||videopeel.firstpromoter.com^
 ||videopostroll.com^
 ||videopreroll.com^
@@ -34053,6 +34062,7 @@
 ||vivintsolar.loggly.com^
 ||viviscal.sjv.io^
 ||vivium.clickfunnels.com^
+||vivo7.com^
 ||vivobarefoot.gr.com^
 ||vivocha.com^
 ||vivozstore.com^
@@ -34283,6 +34293,7 @@
 ||vodafone.ydigitalmedia.com^
 ||vodafonenewsletters.co.uk^
 ||vodmo.org^
+||voe.sx^
 ||vogue20.adx1.com^
 ||voice-acting.adtelligent.com^
 ||voice.dbmvideos.com^
