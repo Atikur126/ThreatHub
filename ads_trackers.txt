@@ -165,6 +165,7 @@
 ||104ez.info^
 ||105.7thefan.com^
 ||1069ef8f941d860c4075cb6c89854968bc748f7b.adx1.com^
+||11114.xmlfeed-usa.adtelligent.com^
 ||115.adx1.com^
 ||1173.xml.adx1.com^
 ||1175.xml.adx1.com^
