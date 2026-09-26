@@ -13733,3 +13733,9 @@
 ||smtp-verifiedoptin-02.aweber.com^
 ||smtp-verifiedoptin-03.aweber.com^
 ||smtp.adx1.com^
+||smtp.ero-advertising.com^
+||smtp01.19840.com^
+||smtp01.accelventures.com^
+||smtp01.adx1.com^
+||smtp01.afda.net^
+||smtp01.ahacpr.org^
