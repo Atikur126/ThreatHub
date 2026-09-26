@@ -11133,3 +11133,7 @@
 ||sentimentalflight.com^
 ||sentinelone.mktoweb.com^
 ||sentry.app.osl.pubops.net^
+||sentry.dev.geekbot.io^
+||sentry.innovativemetrics.com^
+||sentry.neverbounce.com^
+||sentry.viidea.com^
