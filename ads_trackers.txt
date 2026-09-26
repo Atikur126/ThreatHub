@@ -153,6 +153,7 @@
 ||1.adx1.com^
 ||1.backend-staging.services.adx1.com^
 ||1.com.adx1.com^
+||100d-4992-5737-64d8.reporo.net^
 ||104ez.info^
 ||105.7thefan.com^
 ||1069ef8f941d860c4075cb6c89854968bc748f7b.adx1.com^
