@@ -153,7 +153,15 @@
 ||1.adx1.com^
 ||1.backend-staging.services.adx1.com^
 ||1.com.adx1.com^
+||1.hpyrdr.com^
+||1.xmlfeed.adtelligent.com^
+||10.126.85.76cdn.adx1.com^
+||1001446-vm-admin.dianomi.com^
+||1001449-vm-dev.dianomi.com^
+||100championsleagueisil.adx1.com^
 ||100d-4992-5737-64d8.reporo.net^
+||100thmonkeymushrooms.com^
+||102-rwr-052.mktoweb.com^
 ||104ez.info^
 ||105.7thefan.com^
 ||1069ef8f941d860c4075cb6c89854968bc748f7b.adx1.com^
